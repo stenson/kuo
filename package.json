@@ -1,0 +1,13 @@
+{
+  "name": "kuo",
+  "description": "how worldly your music?",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stenson/kuo.git"
+  }, 
+  "dependencies": {
+    "underscore": "*"
+  },
+  "readme": "How worldly your music?"
+}
