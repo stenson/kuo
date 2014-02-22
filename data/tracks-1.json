@@ -1,0 +1,273 @@
+{
+  "rdio-US:artist:r68827": {
+    "common": {
+      "name": "The Oscar Peterson Trio"
+    },
+    "rdio": {
+      "radioKey": "sr3139322",
+      "baseIcon": "album/a/5/8/000000000003e85a/1/square-200.jpg",
+      "canDownloadAlbumOnly": true,
+      "radio": {
+        "type": "sr",
+        "key": "sr3139322"
+      },
+      "artistUrl": "/artist/The_Oscar_Peterson_Trio/",
+      "duration": 172,
+      "album": "We Get Requests",
+      "isClean": false,
+      "albumUrl": "/artist/The_Oscar_Peterson_Trio/album/We_Get_Requests/",
+      "shortUrl": "http://rd.io/x/Qittubk/",
+      "albumArtist": "The Oscar Peterson Trio",
+      "canStream": true,
+      "embedUrl": "https://rd.io/e/Qittubk/",
+      "type": "t",
+      "price": "1.29",
+      "trackNum": 1,
+      "albumArtistKey": "r68827",
+      "key": "t3139322",
+      "icon": "http://rdio2img-a.akamaihd.net/album/a/5/8/000000000003e85a/1/square-200.jpg",
+      "canSample": true,
+      "name": "Quiet Nights Of Quiet Stars (Corcovado)",
+      "isExplicit": false,
+      "artistKey": "r68827",
+      "url": "/artist/The_Oscar_Peterson_Trio/album/We_Get_Requests/track/Quiet_Nights_Of_Quiet_Stars_(Corcovado)/",
+      "icon400": "http://rdio0img-a.akamaihd.net/album/a/5/8/000000000003e85a/1/square-400.jpg",
+      "artist": "The Oscar Peterson Trio",
+      "canDownload": true,
+      "length": 1,
+      "canTether": true,
+      "albumKey": "a256090"
+    },
+    "rosetta": "rdio-US:artist:r68827",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARDQRLK1187FB5A8B9",
+        "artist_location": {
+          "city": "Montreal",
+          "region": null,
+          "location": "Montreal, Canada",
+          "country": "Canada"
+        },
+        "name": "The Oscar Peterson Trio"
+      }
+    },
+    "geocoded": {
+      "id": 6077243,
+      "lng": -73.58780670166016,
+      "lat": 45.50883865356445,
+      "geocodingLevel": "CITY",
+      "name": "Montréal",
+      "city": "Montréal",
+      "state": "Montréal",
+      "countryCode": "CA"
+    }
+  },
+  "rdio-US:artist:r92544": {
+    "common": {
+      "name": "Toots & The Maytals"
+    },
+    "rdio": {
+      "radioKey": "sr2901368",
+      "baseIcon": "album/1/2/5/000000000003a521/1/square-200.jpg",
+      "canDownloadAlbumOnly": true,
+      "radio": {
+        "type": "sr",
+        "key": "sr2901368"
+      },
+      "artistUrl": "/artist/Toots__The_Maytals/",
+      "duration": 224,
+      "album": "The Very Best Of Toots & The Maytals",
+      "isClean": false,
+      "albumUrl": "/artist/Toots__The_Maytals/album/The_Very_Best_Of_Toots__The_Maytals/",
+      "shortUrl": "http://rd.io/x/QituGjs/",
+      "albumArtist": "Toots & The Maytals",
+      "canStream": true,
+      "embedUrl": "https://rd.io/e/QituGjs/",
+      "type": "t",
+      "price": "1.29",
+      "trackNum": 5,
+      "albumArtistKey": "r92544",
+      "key": "t2901368",
+      "icon": "http://rdio0img-a.akamaihd.net/album/1/2/5/000000000003a521/1/square-200.jpg",
+      "canSample": true,
+      "name": "Pressure Drop",
+      "isExplicit": false,
+      "artistKey": "r92544",
+      "url": "/artist/Toots__The_Maytals/album/The_Very_Best_Of_Toots__The_Maytals/track/Pressure_Drop/",
+      "icon400": "http://rdio2img-a.akamaihd.net/album/1/2/5/000000000003a521/1/square-400.jpg",
+      "artist": "Toots & The Maytals",
+      "canDownload": true,
+      "length": 1,
+      "canTether": true,
+      "albumKey": "a238881"
+    },
+    "rosetta": "rdio-US:artist:r92544",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARANIJI11F4C83EFD2",
+        "artist_location": {
+          "city": "Kingston",
+          "region": null,
+          "location": "Kingston, Jamaica",
+          "country": "Jamaica"
+        },
+        "name": "Toots and The Maytals"
+      }
+    },
+    "geocoded": {
+      "id": 3489853,
+      "lng": -76.80000305175781,
+      "lat": 17.9666690826416,
+      "geocodingLevel": "STATE",
+      "name": "Parish of Kingston",
+      "state": "Parish of Kingston",
+      "countryCode": "JM"
+    }
+  },
+  "rdio-US:artist:r23676": {
+    "common": {
+      "name": "Al Green"
+    },
+    "rdio": {
+      "radioKey": "sr2157806",
+      "baseIcon": "album/5/6/b/000000000002bb65/square-200.jpg",
+      "canDownloadAlbumOnly": false,
+      "radio": {
+        "type": "sr",
+        "key": "sr2157806"
+      },
+      "artistUrl": "/artist/Al_Green/",
+      "duration": 270,
+      "album": "Lay It Down",
+      "isClean": false,
+      "albumUrl": "/artist/Al_Green/album/Lay_It_Down/",
+      "shortUrl": "http://rd.io/x/Qitis60/",
+      "albumArtist": "Al Green",
+      "canStream": false,
+      "embedUrl": "https://rd.io/e/Qitis60/",
+      "type": "t",
+      "price": "None",
+      "trackNum": 1,
+      "albumArtistKey": "r23676",
+      "key": "t2157806",
+      "icon": "http://rdio0img-a.akamaihd.net/album/5/6/b/000000000002bb65/square-200.jpg",
+      "canSample": false,
+      "name": "Lay It Down",
+      "isExplicit": false,
+      "artistKey": "r23676",
+      "url": "/artist/Al_Green/album/Lay_It_Down/track/Lay_It_Down/",
+      "icon400": "http://rdio2img-a.akamaihd.net/album/5/6/b/000000000002bb65/square-400.jpg",
+      "artist": "Al Green",
+      "canDownload": false,
+      "length": 1,
+      "canTether": false,
+      "albumKey": "a179045"
+    },
+    "rosetta": "rdio-US:artist:r23676",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARNNRN31187B9AE7B7",
+        "artist_location": {
+          "city": "Forrest City",
+          "region": "Arkansas",
+          "location": "Forrest City, AR, US",
+          "country": "United States"
+        },
+        "name": "Al Green"
+      }
+    },
+    "geocoded": {
+      "id": 4111382,
+      "lng": -90.78983306884766,
+      "lat": 35.008148193359375,
+      "geocodingLevel": "CITY",
+      "name": "Forrest City",
+      "zipCode": "72336",
+      "city": "Forrest City",
+      "state": "Saint Francis County",
+      "countryCode": "US"
+    }
+  },
+  "rdio-US:artist:r1884635": {
+    "common": {
+      "name": "Kentucky Thunder, Ricky Skaggs"
+    },
+    "rdio": {
+      "radioKey": "sr4739093",
+      "baseIcon": "album/4/9/1/000000000005e194/square-200.jpg",
+      "canDownloadAlbumOnly": true,
+      "radio": {
+        "type": "sr",
+        "key": "sr4739093"
+      },
+      "artistUrl": "/artist/Kentucky_Thunder%2C_Ricky_Skaggs/",
+      "duration": 158,
+      "album": "Ancient Tones",
+      "isClean": false,
+      "albumUrl": "/artist/Kentucky_Thunder%2C_Ricky_Skaggs/album/Ancient_Tones/",
+      "shortUrl": "http://rd.io/x/QisKD1Y/",
+      "albumArtist": "Kentucky Thunder, Ricky Skaggs",
+      "canStream": true,
+      "embedUrl": "https://rd.io/e/QisKD1Y/",
+      "type": "t",
+      "price": "0.99",
+      "trackNum": 4,
+      "albumArtistKey": "r1884635",
+      "key": "t4739093",
+      "icon": "http://rdio2img-a.akamaihd.net/album/4/9/1/000000000005e194/square-200.jpg",
+      "canSample": true,
+      "name": "Mighty Dark To Travel",
+      "isExplicit": false,
+      "artistKey": "r1884635",
+      "url": "/artist/Kentucky_Thunder%2C_Ricky_Skaggs/album/Ancient_Tones/track/Mighty_Dark_To_Travel/",
+      "icon400": "http://rdio0img-a.akamaihd.net/album/4/9/1/000000000005e194/square-400.jpg",
+      "artist": "Kentucky Thunder, Ricky Skaggs",
+      "canDownload": true,
+      "length": 1,
+      "canTether": true,
+      "albumKey": "a385428"
+    },
+    "rosetta": "rdio-US:artist:r1884635",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARLEMUA1269FB25B61",
+        "artist_location": {
+          "city": null,
+          "region": "Tennessee",
+          "location": "Tennessee, US",
+          "country": "United States"
+        },
+        "name": "Kentucky Thunder"
+      }
+    },
+    "geocoded": {
+      "id": 4662168,
+      "lng": -86.2502670288086,
+      "lat": 35.75035095214844,
+      "geocodingLevel": "STATE",
+      "name": "Tennessee",
+      "state": "Tennessee",
+      "countryCode": "US"
+    }
+  }
+}

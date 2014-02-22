@@ -1,0 +1,3674 @@
+[
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl62|415316",
+      "name": "Various Artists",
+      "artistKey": "r62",
+      "url": "/artist/Various_Artists/",
+      "shortUrl": "http://rd.io/x/Qi18/",
+      "hasRadio": true,
+      "length": 0,
+      "artistUrl": "/artist/Various_Artists/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr62",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr62"
+    },
+    "rosetta": "rdio-US:artist:r62",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARAGWS81187FB3F768",
+        "name": "Various Artists"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl92544|415316",
+      "name": "Toots & The Maytals",
+      "artistKey": "r92544",
+      "url": "/artist/Toots__The_Maytals/",
+      "shortUrl": "http://rd.io/x/Qi1DNsM/",
+      "hasRadio": true,
+      "length": 463,
+      "artistUrl": "/artist/Toots__The_Maytals/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr92544",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr92544"
+    },
+    "rosetta": "rdio-US:artist:r92544",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARANIJI11F4C83EFD2",
+        "artist_location": {
+          "city": "Kingston",
+          "region": null,
+          "location": "Kingston, Jamaica",
+          "country": "Jamaica"
+        },
+        "name": "Toots and The Maytals"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl13913|415316",
+      "name": "Generationals",
+      "artistKey": "r13913",
+      "url": "/artist/Generationals/",
+      "shortUrl": "http://rd.io/x/Qi10Bg/",
+      "hasRadio": true,
+      "length": 42,
+      "artistUrl": "/artist/Generationals/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr13913",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr13913"
+    },
+    "rosetta": "rdio-US:artist:r13913",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARDHGXB122BCFCD697",
+        "artist_location": {
+          "city": "New Orleans",
+          "region": "Louisiana",
+          "location": "New Orleans, LA, US",
+          "country": "United States"
+        },
+        "name": "Generationals"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl462411|415316",
+      "name": "Caleb Klauder",
+      "artistKey": "r462411",
+      "url": "/artist/Caleb_Klauder/",
+      "shortUrl": "http://rd.io/x/Qi1FUQg/",
+      "hasRadio": true,
+      "length": 36,
+      "artistUrl": "/artist/Caleb_Klauder/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr462411",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr462411"
+    },
+    "rosetta": "rdio-US:artist:r462411",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARTJMCE1187B99A6A4",
+        "artist_location": {
+          "city": null,
+          "region": null,
+          "location": "United States",
+          "country": "United States"
+        },
+        "name": "Caleb Klauder"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl60968|415316",
+      "name": "Ricky Skaggs",
+      "artistKey": "r60968",
+      "url": "/artist/Ricky_Skaggs/",
+      "shortUrl": "http://rd.io/x/Qi2sdw/",
+      "hasRadio": true,
+      "length": 454,
+      "artistUrl": "/artist/Ricky_Skaggs/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr60968",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr60968"
+    },
+    "rosetta": "rdio-US:artist:r60968",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARQVA291187FB3B85A",
+        "artist_location": {
+          "city": "Cordell",
+          "region": "Kentucky",
+          "location": "Cordell, KY, US",
+          "country": "United States"
+        },
+        "name": "Ricky Skaggs"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl37824|415316",
+      "name": "The Band",
+      "artistKey": "r37824",
+      "url": "/artist/The_Band/",
+      "shortUrl": "http://rd.io/x/Qi3Rnw/",
+      "hasRadio": true,
+      "length": 846,
+      "artistUrl": "/artist/The_Band/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr37824",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr37824"
+    },
+    "rosetta": "rdio-US:artist:r37824",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARGF9VF1187FB37DAE",
+        "artist_location": {
+          "city": "Toronto",
+          "region": "Ontario",
+          "location": "Toronto, Ontario, CA",
+          "country": "Canada"
+        },
+        "name": "The Band"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl1884635|415316",
+      "name": "Kentucky Thunder, Ricky Skaggs",
+      "artistKey": "r1884635",
+      "url": "/artist/Kentucky_Thunder%2C_Ricky_Skaggs/",
+      "shortUrl": "http://rd.io/x/Qi1enpg/",
+      "hasRadio": true,
+      "length": 48,
+      "artistUrl": "/artist/Kentucky_Thunder%2C_Ricky_Skaggs/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr1884635",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr1884635"
+    },
+    "rosetta": "rdio-US:artist:r1884635",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARLEMUA1269FB25B61",
+        "artist_location": {
+          "city": null,
+          "region": "Tennessee",
+          "location": "Tennessee, US",
+          "country": "United States"
+        },
+        "name": "Kentucky Thunder"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl23676|415316",
+      "name": "Al Green",
+      "artistKey": "r23676",
+      "url": "/artist/Al_Green/",
+      "shortUrl": "http://rd.io/x/Qi0eIw/",
+      "hasRadio": true,
+      "length": 257,
+      "artistUrl": "/artist/Al_Green/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr23676",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr23676"
+    },
+    "rosetta": "rdio-US:artist:r23676",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARNNRN31187B9AE7B7",
+        "artist_location": {
+          "city": "Forrest City",
+          "region": "Arkansas",
+          "location": "Forrest City, AR, US",
+          "country": "United States"
+        },
+        "name": "Al Green"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl39047|415316",
+      "name": "Luiz Bonfá",
+      "artistKey": "r39047",
+      "url": "/artist/Luiz_Bonfa/",
+      "shortUrl": "http://rd.io/x/Qi3a2A/",
+      "hasRadio": true,
+      "length": 296,
+      "artistUrl": "/artist/Luiz_Bonfa/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr39047",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr39047"
+    },
+    "rosetta": "rdio-US:artist:r39047",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARQCHDN1187FB4C7C2",
+        "artist_location": {
+          "city": "Rio de Janeiro",
+          "region": "Rio de Janeiro",
+          "location": "Rio de Janeiro, Rio de Janeiro, BR",
+          "country": "Brazil"
+        },
+        "name": "Luiz Bonfá"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl88777|415316",
+      "name": "Gigi",
+      "artistKey": "r88777",
+      "url": "/artist/Gigi/",
+      "shortUrl": "http://rd.io/x/Qi1DBYo/",
+      "hasRadio": true,
+      "length": 257,
+      "artistUrl": "/artist/Gigi/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr88777",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr88777"
+    },
+    "rosetta": "rdio-US:artist:r88777",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR8LCG7119B3402FD9",
+        "artist_location": {
+          "city": null,
+          "region": "Virginia",
+          "location": "Virginia, US",
+          "country": "United States"
+        },
+        "name": "Gi Gi"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl1863|415316",
+      "name": "Dr. Dog",
+      "artistKey": "r1863",
+      "url": "/artist/Dr._Dog/",
+      "shortUrl": "http://rd.io/x/Qi1FGA/",
+      "hasRadio": true,
+      "length": 141,
+      "artistUrl": "/artist/Dr._Dog/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr1863",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr1863"
+    },
+    "rosetta": "rdio-US:artist:r1863",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARW1XCK1187B9A2D47",
+        "artist_location": {
+          "city": "West Grove",
+          "region": "PA",
+          "location": "West Grove, PA",
+          "country": "United States"
+        },
+        "name": "Dr. Dog"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl88254|415316",
+      "name": "Bon Iver",
+      "artistKey": "r88254",
+      "url": "/artist/Bon_Iver/",
+      "shortUrl": "http://rd.io/x/Qi1DB_0/",
+      "hasRadio": true,
+      "length": 39,
+      "artistUrl": "/artist/Bon_Iver/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr88254",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr88254"
+    },
+    "rosetta": "rdio-US:artist:r88254",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARKDTAM1187FB54026",
+        "artist_location": {
+          "city": "Eau Claire",
+          "region": "Wisconsin",
+          "location": "Eau Claire, WI, US",
+          "country": "United States"
+        },
+        "name": "Bon Iver"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl68827|415316",
+      "name": "The Oscar Peterson Trio",
+      "artistKey": "r68827",
+      "url": "/artist/The_Oscar_Peterson_Trio/",
+      "shortUrl": "http://rd.io/x/Qi1DU5g/",
+      "hasRadio": true,
+      "length": 485,
+      "artistUrl": "/artist/The_Oscar_Peterson_Trio/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr68827",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr68827"
+    },
+    "rosetta": "rdio-US:artist:r68827",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARDQRLK1187FB5A8B9",
+        "artist_location": {
+          "city": "Montreal",
+          "region": null,
+          "location": "Montreal, Canada",
+          "country": "Canada"
+        },
+        "name": "The Oscar Peterson Trio"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl141133|415316",
+      "name": "Ali Farka Touré & Toumani Diabaté",
+      "artistKey": "r141133",
+      "url": "/artist/Ali_Farka_Tour%C3%A9__Toumani_Diabat%C3%A9/",
+      "shortUrl": "http://rd.io/x/Qi1AeA4/",
+      "hasRadio": true,
+      "length": 27,
+      "artistUrl": "/artist/Ali_Farka_Tour%C3%A9__Toumani_Diabat%C3%A9/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr141133",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr141133"
+    },
+    "rosetta": "rdio-US:artist:r141133",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR3ZGUC1187FB57721",
+        "name": "Ali Farka Touré & Toumani Diabaté"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl8693|415316",
+      "name": "Laura Gibson",
+      "artistKey": "r8693",
+      "url": "/artist/Laura_Gibson/",
+      "shortUrl": "http://rd.io/x/Qi1jqg/",
+      "hasRadio": true,
+      "length": 48,
+      "artistUrl": "/artist/Laura_Gibson/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr8693",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr8693"
+    },
+    "rosetta": "rdio-US:artist:r8693",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARSJGWO1187B99364A",
+        "artist_location": {
+          "city": "Portland",
+          "region": "Oregon",
+          "location": "Portland, OR, US",
+          "country": "United States"
+        },
+        "name": "Laura Gibson"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl138899|415316",
+      "name": "Vampire Weekend",
+      "artistKey": "r138899",
+      "url": "/artist/Vampire_Weekend/",
+      "shortUrl": "http://rd.io/x/Qi1AQdA/",
+      "hasRadio": true,
+      "length": 57,
+      "artistUrl": "/artist/Vampire_Weekend/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr138899",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr138899"
+    },
+    "rosetta": "rdio-US:artist:r138899",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR2ZPMX1187FB4E4B6",
+        "artist_location": {
+          "city": "New York",
+          "region": "New York",
+          "location": "New York, NY, US",
+          "country": "United States"
+        },
+        "name": "Vampire Weekend"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl4457|415316",
+      "name": "Miles Davis",
+      "artistKey": "r4457",
+      "url": "/artist/Miles_Davis/",
+      "shortUrl": "http://rd.io/x/Qi1TNg/",
+      "hasRadio": true,
+      "length": 5431,
+      "artistUrl": "/artist/Miles_Davis/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr4457",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr4457"
+    },
+    "rosetta": "rdio-US:artist:r4457",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR7RTGF1187FB38793",
+        "artist_location": {
+          "city": "Alton",
+          "region": "Illinois",
+          "location": "Alton, IL, US",
+          "country": "United States"
+        },
+        "name": "Miles Davis"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl348877|415316",
+      "name": "Blake Mills",
+      "artistKey": "r348877",
+      "url": "/artist/Blake_Mills/",
+      "shortUrl": "http://rd.io/x/Qi1HDY4/",
+      "hasRadio": true,
+      "length": 20,
+      "artistUrl": "/artist/Blake_Mills/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr348877",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr348877"
+    },
+    "rosetta": "rdio-US:artist:r348877",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARQCLQV129CDBEFF2A",
+        "artist_location": {
+          "city": "Los Angeles",
+          "region": "California",
+          "location": "Venice Beach, Los Angeles, CA, US",
+          "country": "United States"
+        },
+        "name": "Blake Mills"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl615554|415316",
+      "name": "Bahamas",
+      "artistKey": "r615554",
+      "url": "/artist/Bahamas/",
+      "shortUrl": "http://rd.io/x/Qi1LO8E/",
+      "hasRadio": true,
+      "length": 26,
+      "artistUrl": "/artist/Bahamas/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr615554",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr615554"
+    },
+    "rosetta": "rdio-US:artist:r615554",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARXPTHP127AF89505D",
+        "artist_location": {
+          "city": "Toronto",
+          "region": "Ontario",
+          "location": "Toronto, Ontario, CA",
+          "country": "Canada"
+        },
+        "name": "Bahamas"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl2614|415316",
+      "name": "Count Basie",
+      "artistKey": "r2614",
+      "url": "/artist/Count_Basie/",
+      "shortUrl": "http://rd.io/x/Qi1IaQ/",
+      "hasRadio": true,
+      "length": 4174,
+      "artistUrl": "/artist/Count_Basie/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr2614",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr2614"
+    },
+    "rosetta": "rdio-US:artist:r2614",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARLKW7S1187FB3D889",
+        "artist_location": {
+          "city": "Red Bank",
+          "region": "New Jersey",
+          "location": "Red Bank, NJ, US",
+          "country": "United States"
+        },
+        "name": "Count Basie"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl139361|415316",
+      "name": "Lyle Lovett",
+      "artistKey": "r139361",
+      "url": "/artist/Lyle_Lovett/",
+      "shortUrl": "http://rd.io/x/Qi1AfyI/",
+      "hasRadio": true,
+      "length": 203,
+      "artistUrl": "/artist/Lyle_Lovett/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr139361",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr139361"
+    },
+    "rosetta": "rdio-US:artist:r139361",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARTMDQM1187B9B8007",
+        "artist_location": {
+          "city": "Klein",
+          "region": "Texas",
+          "location": "Klein, TX, US",
+          "country": "United States"
+        },
+        "name": "Lyle Lovett"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl194676|415316",
+      "name": "Bruce Hornsby",
+      "artistKey": "r194676",
+      "url": "/artist/Bruce_Hornsby/",
+      "shortUrl": "http://rd.io/x/Qi1Apzc/",
+      "hasRadio": true,
+      "length": 171,
+      "artistUrl": "/artist/Bruce_Hornsby/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr194676",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr194676"
+    },
+    "rosetta": "rdio-US:artist:r194676",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARIPAVC1187FB38BE7",
+        "artist_location": {
+          "city": "Williamsburg",
+          "region": "VA",
+          "location": "Williamsburg, VA",
+          "country": "United States"
+        },
+        "name": "Bruce Hornsby"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl797832|415316",
+      "name": "Luke Abbott",
+      "artistKey": "r797832",
+      "url": "/artist/Luke_Abbott/",
+      "shortUrl": "http://rd.io/x/Qi1Oc8s/",
+      "hasRadio": true,
+      "length": 60,
+      "artistUrl": "/artist/Luke_Abbott/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr797832",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr797832"
+    },
+    "rosetta": "rdio-US:artist:r797832",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARUMD8W1187FB5B51F",
+        "artist_location": {
+          "city": "Norwich",
+          "region": null,
+          "location": "Norwich, England",
+          "country": "United Kingdom"
+        },
+        "name": "Luke Abbott"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl9993|415316",
+      "name": "The Two Man Gentlemen Band",
+      "artistKey": "r9993",
+      "url": "/artist/The_Two_Man_Gentlemen_Band/",
+      "shortUrl": "http://rd.io/x/Qi1lVg/",
+      "hasRadio": true,
+      "length": 89,
+      "artistUrl": "/artist/The_Two_Man_Gentlemen_Band/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr9993",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr9993"
+    },
+    "rosetta": "rdio-US:artist:r9993",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARC6KTG1187FB4AE60",
+        "artist_location": {
+          "city": "Brooklyn",
+          "region": "NY",
+          "location": "Brooklyn, NY",
+          "country": "United States"
+        },
+        "name": "The Two Man Gentlemen Band"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl115843|415316",
+      "name": "M. Ward",
+      "artistKey": "r115843",
+      "url": "/artist/M._Ward/",
+      "shortUrl": "http://rd.io/x/Qi1Dm8A/",
+      "hasRadio": true,
+      "length": 125,
+      "artistUrl": "/artist/M._Ward/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr115843",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr115843"
+    },
+    "rosetta": "rdio-US:artist:r115843",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR99RTN1187B9A7A0C",
+        "artist_location": {
+          "city": "Thousand Oaks",
+          "region": "California",
+          "location": "Newbury Park, Thousand Oaks, CA, US",
+          "country": "United States"
+        },
+        "name": "M. Ward"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl79696|415316",
+      "name": "Esther Phillips",
+      "artistKey": "r79696",
+      "url": "/artist/Esther_Phillips/",
+      "shortUrl": "http://rd.io/x/Qi1DaBM/",
+      "hasRadio": true,
+      "length": 198,
+      "artistUrl": "/artist/Esther_Phillips/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr79696",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr79696"
+    },
+    "rosetta": "rdio-US:artist:r79696",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARCH48I1187FB51B68",
+        "artist_location": {
+          "city": "Galveston",
+          "region": "Texas",
+          "location": "Galveston, TX, US",
+          "country": "United States"
+        },
+        "name": "Esther Phillips"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl5439|415316",
+      "name": "Patsy Cline",
+      "artistKey": "r5439",
+      "url": "/artist/Patsy_Cline/",
+      "shortUrl": "http://rd.io/x/Qi1XYA/",
+      "hasRadio": true,
+      "length": 2827,
+      "artistUrl": "/artist/Patsy_Cline/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr5439",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr5439"
+    },
+    "rosetta": "rdio-US:artist:r5439",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARA7YDA1187B9A5776",
+        "artist_location": {
+          "city": "Winchester",
+          "region": "VA",
+          "location": "Winchester, VA",
+          "country": "United States"
+        },
+        "name": "Patsy Cline"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl48617|415316",
+      "name": "Desmond Dekker",
+      "artistKey": "r48617",
+      "url": "/artist/Desmond_Dekker/",
+      "shortUrl": "http://rd.io/x/Qi3_tg/",
+      "hasRadio": true,
+      "length": 443,
+      "artistUrl": "/artist/Desmond_Dekker/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr48617",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr48617"
+    },
+    "rosetta": "rdio-US:artist:r48617",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARVTEOO1187FB3D00F",
+        "artist_location": {
+          "city": "Kingston",
+          "region": "Saint Andrew",
+          "location": "Kingston, Saint Andrew, JM",
+          "country": "Jamaica"
+        },
+        "name": "Desmond Dekker"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl881654|415316",
+      "name": "Thao & Mirah",
+      "artistKey": "r881654",
+      "url": "/artist/Thao__Mirah/",
+      "shortUrl": "http://rd.io/x/Qi1PLLU/",
+      "hasRadio": true,
+      "length": 11,
+      "artistUrl": "/artist/Thao__Mirah/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr881654",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr881654"
+    },
+    "rosetta": "rdio-US:artist:r881654",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARQOVEI12DE7790052",
+        "artist_location": {
+          "city": "San Francisco",
+          "region": "California",
+          "location": "San Francisco, CA, US",
+          "country": "United States"
+        },
+        "name": "Thao & Mirah"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl11212|415316",
+      "name": "Lia Ices",
+      "artistKey": "r11212",
+      "url": "/artist/Lia_Ices/",
+      "shortUrl": "http://rd.io/x/Qi1pkw/",
+      "hasRadio": true,
+      "length": 23,
+      "artistUrl": "/artist/Lia_Ices/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr11212",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr11212"
+    },
+    "rosetta": "rdio-US:artist:r11212",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR21FKX11C8A422DF2",
+        "artist_location": {
+          "city": "New York",
+          "region": "New York",
+          "location": "New York, NY, US",
+          "country": "United States"
+        },
+        "name": "Lia Ices"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl88846|415316",
+      "name": "Islands",
+      "artistKey": "r88846",
+      "url": "/artist/Islands/",
+      "shortUrl": "http://rd.io/x/Qi1DBE0/",
+      "hasRadio": true,
+      "length": 78,
+      "artistUrl": "/artist/Islands/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr88846",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr88846"
+    },
+    "rosetta": "rdio-US:artist:r88846",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARWSWWD1187FB38F06",
+        "artist_location": {
+          "city": "Montreal",
+          "region": null,
+          "location": "Montreal, Canada",
+          "country": "Canada"
+        },
+        "name": "Islands"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl85781|415316",
+      "name": "Amadou & Mariam",
+      "artistKey": "r85781",
+      "url": "/artist/Amadou__Mariam/",
+      "shortUrl": "http://rd.io/x/Qi1DEFY/",
+      "hasRadio": true,
+      "length": 185,
+      "artistUrl": "/artist/Amadou__Mariam/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr85781",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr85781"
+    },
+    "rosetta": "rdio-US:artist:r85781",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AREXOET1187B9B80A3",
+        "artist_location": {
+          "city": "Bamako",
+          "region": "Bamako",
+          "location": "Bamako, Bamako, ML",
+          "country": "Mali"
+        },
+        "name": "Amadou & Mariam"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl465504|415316",
+      "name": "Linzay Young, Joel Savoy",
+      "artistKey": "r465504",
+      "url": "/artist/Linzay_Young%2C_Joel_Savoy/",
+      "shortUrl": "http://rd.io/x/Qi1FRSM/",
+      "hasRadio": true,
+      "length": 0,
+      "artistUrl": "/artist/Linzay_Young%2C_Joel_Savoy/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr465504",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr465504"
+    },
+    "rosetta": "rdio-US:artist:r465504",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 5,
+        "message": "The Identifier specified does not exist"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl141345|415316",
+      "name": "Hot Chip",
+      "artistKey": "r141345",
+      "url": "/artist/Hot_Chip/",
+      "shortUrl": "http://rd.io/x/Qi1Ad2I/",
+      "hasRadio": true,
+      "length": 173,
+      "artistUrl": "/artist/Hot_Chip/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr141345",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr141345"
+    },
+    "rosetta": "rdio-US:artist:r141345",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARWA8AH1187FB3FC84",
+        "artist_location": {
+          "city": "London",
+          "region": "England",
+          "location": "London, England, GB",
+          "country": "United Kingdom"
+        },
+        "name": "Hot Chip"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl4946|415316",
+      "name": "Charlie Christian",
+      "artistKey": "r4946",
+      "url": "/artist/Charlie_Christian/",
+      "shortUrl": "http://rd.io/x/Qi1RDQ/",
+      "hasRadio": true,
+      "length": 788,
+      "artistUrl": "/artist/Charlie_Christian/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr4946",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr4946"
+    },
+    "rosetta": "rdio-US:artist:r4946",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR2M53T1187FB3DDA7",
+        "artist_location": {
+          "city": "Dallas",
+          "region": "Texas",
+          "location": "Dallas, TX, US",
+          "country": "United States"
+        },
+        "name": "Charlie Christian"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl8|415316",
+      "name": "Louis Armstrong",
+      "artistKey": "r8",
+      "url": "/artist/Louis_Armstrong/",
+      "shortUrl": "http://rd.io/x/Qi1K/",
+      "hasRadio": true,
+      "length": 9286,
+      "artistUrl": "/artist/Louis_Armstrong/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr8",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr8"
+    },
+    "rosetta": "rdio-US:artist:r8",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARB1DDF1187FB4FCFB",
+        "artist_location": {
+          "city": "New Orleans",
+          "region": "Louisiana",
+          "location": "New Orleans, LA, US",
+          "country": "United States"
+        },
+        "name": "Louis Armstrong"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl90487|415316",
+      "name": "Jerry O'Sullivan",
+      "artistKey": "r90487",
+      "url": "/artist/Jerry_O%27Sullivan/",
+      "shortUrl": "http://rd.io/x/Qi1DPjQ/",
+      "hasRadio": true,
+      "length": 41,
+      "artistUrl": "/artist/Jerry_O%27Sullivan/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr90487",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr90487"
+    },
+    "rosetta": "rdio-US:artist:r90487",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARB9X221187FB5B573",
+        "artist_location": {
+          "city": "New York",
+          "region": "New York",
+          "location": "New York, NY, US",
+          "country": "United States"
+        },
+        "name": "Jerry O'Sullivan"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl170684|415316",
+      "name": "Prefuse 73",
+      "artistKey": "r170684",
+      "url": "/artist/Prefuse_73/",
+      "shortUrl": "http://rd.io/x/Qi1Axf8/",
+      "hasRadio": true,
+      "length": 204,
+      "artistUrl": "/artist/Prefuse_73/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr170684",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr170684"
+    },
+    "rosetta": "rdio-US:artist:r170684",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARY4M5Z1187FB45D98",
+        "artist_location": {
+          "city": "Barcelona",
+          "region": "Cataluña",
+          "location": "Barcelona, Catalonia, ES",
+          "country": "Spain"
+        },
+        "name": "Prefuse 73"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl475902|415316",
+      "name": "Daniel Romano",
+      "artistKey": "r475902",
+      "url": "/artist/Daniel_Romano/",
+      "shortUrl": "http://rd.io/x/Qi1FHb0/",
+      "hasRadio": true,
+      "length": 46,
+      "artistUrl": "/artist/Daniel_Romano/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr475902",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr475902"
+    },
+    "rosetta": "rdio-US:artist:r475902",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARTUBOF11E2835EBA1",
+        "artist_location": {
+          "city": null,
+          "region": null,
+          "location": "Canada",
+          "country": "Canada"
+        },
+        "name": "Daniel Romano"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl28969|415316",
+      "name": "Alton Ellis",
+      "artistKey": "r28969",
+      "url": "/artist/Alton_Ellis/",
+      "shortUrl": "http://rd.io/x/Qi0zdg/",
+      "hasRadio": true,
+      "length": 622,
+      "artistUrl": "/artist/Alton_Ellis/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr28969",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr28969"
+    },
+    "rosetta": "rdio-US:artist:r28969",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR7DNHO1187B992B0B",
+        "artist_location": {
+          "city": "Kingston",
+          "region": "Saint Andrew",
+          "location": "Kingston, Saint Andrew, JM",
+          "country": "Jamaica"
+        },
+        "name": "Alton Ellis"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl5799|415316",
+      "name": "The Byrds",
+      "artistKey": "r5799",
+      "url": "/artist/The_Byrds/",
+      "shortUrl": "http://rd.io/x/Qi1U-A/",
+      "hasRadio": true,
+      "length": 736,
+      "artistUrl": "/artist/The_Byrds/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr5799",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr5799"
+    },
+    "rosetta": "rdio-US:artist:r5799",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARDI1XT1187FB3EA46",
+        "artist_location": {
+          "city": "Los Angeles",
+          "region": "California",
+          "location": "Los Angeles, CA, US",
+          "country": "United States"
+        },
+        "name": "The Byrds"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl372028|415316",
+      "name": "Alela Diane",
+      "artistKey": "r372028",
+      "url": "/artist/Alela_Diane/",
+      "shortUrl": "http://rd.io/x/Qi1H8n8/",
+      "hasRadio": true,
+      "length": 57,
+      "artistUrl": "/artist/Alela_Diane/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr372028",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr372028"
+    },
+    "rosetta": "rdio-US:artist:r372028",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARP0XCO1187FB5AD3C",
+        "artist_location": {
+          "city": "Nevada City",
+          "region": "CA",
+          "location": "Nevada City, CA",
+          "country": "United States"
+        },
+        "name": "Alela Diane"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl908452|415316",
+      "name": "Domotic",
+      "artistKey": "r908452",
+      "url": "/artist/Domotic/",
+      "shortUrl": "http://rd.io/x/Qi1Pg-c/",
+      "hasRadio": true,
+      "length": 22,
+      "artistUrl": "/artist/Domotic/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr908452",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr908452"
+    },
+    "rosetta": "rdio-US:artist:r908452",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARXGBA81187B99A7AD",
+        "artist_location": {
+          "city": null,
+          "region": null,
+          "location": "France",
+          "country": "France"
+        },
+        "name": "Domotic"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl67394|415316",
+      "name": "A Tribe Called Quest",
+      "artistKey": "r67394",
+      "url": "/artist/A_Tribe_Called_Quest/",
+      "shortUrl": "http://rd.io/x/Qi1DWAE/",
+      "hasRadio": true,
+      "length": 123,
+      "artistUrl": "/artist/A_Tribe_Called_Quest/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr67394",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr67394"
+    },
+    "rosetta": "rdio-US:artist:r67394",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR4WHYC1187B9896E7",
+        "artist_location": {
+          "city": "Queens",
+          "region": "New York",
+          "location": "Queens, New York, NY, US",
+          "country": "United States"
+        },
+        "name": "A Tribe Called Quest"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl397692|415316",
+      "name": "Frank Fairfield",
+      "artistKey": "r397692",
+      "url": "/artist/Frank_Fairfield/",
+      "shortUrl": "http://rd.io/x/Qi1ETj8/",
+      "hasRadio": true,
+      "length": 28,
+      "artistUrl": "/artist/Frank_Fairfield/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr397692",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr397692"
+    },
+    "rosetta": "rdio-US:artist:r397692",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARKWUHQ11FF10D8520",
+        "artist_location": {
+          "city": null,
+          "region": "California",
+          "location": "California, US",
+          "country": "United States"
+        },
+        "name": "Frank Fairfield"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl672074|415316",
+      "name": "Ebo Taylor",
+      "artistKey": "r672074",
+      "url": "/artist/Ebo_Taylor/",
+      "shortUrl": "http://rd.io/x/Qi1IHgk/",
+      "hasRadio": true,
+      "length": 49,
+      "artistUrl": "/artist/Ebo_Taylor/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr672074",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr672074"
+    },
+    "rosetta": "rdio-US:artist:r672074",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR8R0C81187B9A5781",
+        "artist_location": {
+          "city": "Salt Pond",
+          "region": "Missouri",
+          "location": "Salt Pond, MO, US",
+          "country": "United States"
+        },
+        "name": "Ebo Taylor"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl1448166|415316",
+      "name": "Michael Kiwanuka",
+      "artistKey": "r1448166",
+      "url": "/artist/Michael_Kiwanuka/",
+      "shortUrl": "http://rd.io/x/Qi1UR6U/",
+      "hasRadio": true,
+      "length": 20,
+      "artistUrl": "/artist/Michael_Kiwanuka/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr1448166",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr1448166"
+    },
+    "rosetta": "rdio-US:artist:r1448166",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARAIVLI13004F7C1CA",
+        "artist_location": {
+          "city": "London",
+          "region": "England",
+          "location": "Muswell Hill, London, England, GB",
+          "country": "United Kingdom"
+        },
+        "name": "Michael Kiwanuka"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl33696|415316",
+      "name": "Benny Goodman Trio",
+      "artistKey": "r33696",
+      "url": "/artist/Benny_Goodman_Trio/",
+      "shortUrl": "http://rd.io/x/Qi3B_w/",
+      "hasRadio": true,
+      "length": 70,
+      "artistUrl": "/artist/Benny_Goodman_Trio/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr33696",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr33696"
+    },
+    "rosetta": "rdio-US:artist:r33696",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARYHGXN11F4C83CE60",
+        "name": "Benny Goodman Trio"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl2688|415316",
+      "name": "Django Reinhardt",
+      "artistKey": "r2688",
+      "url": "/artist/Django_Reinhardt/",
+      "shortUrl": "http://rd.io/x/Qi1I3w/",
+      "hasRadio": true,
+      "length": 6983,
+      "artistUrl": "/artist/Django_Reinhardt/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr2688",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr2688"
+    },
+    "rosetta": "rdio-US:artist:r2688",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARCA4IN1187B9B338B",
+        "artist_location": {
+          "city": "Liberchies",
+          "region": "Hainaut",
+          "location": "Liberchies, Hainault, BE",
+          "country": "Belgium"
+        },
+        "name": "Django Reinhardt"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl7626|415316",
+      "name": "Thelonious Monk",
+      "artistKey": "r7626",
+      "url": "/artist/Thelonious_Monk/",
+      "shortUrl": "http://rd.io/x/Qi1flQ/",
+      "hasRadio": true,
+      "length": 2508,
+      "artistUrl": "/artist/Thelonious_Monk/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr7626",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr7626"
+    },
+    "rosetta": "rdio-US:artist:r7626",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR9PLH11187FB58A87",
+        "artist_location": {
+          "city": "Rocky Mount",
+          "region": "North Carolina",
+          "location": "Rocky Mount, NC, US",
+          "country": "United States"
+        },
+        "name": "Thelonious Monk"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl85875|415316",
+      "name": "Toumani Diabate",
+      "artistKey": "r85875",
+      "url": "/artist/Toumani_Diabate/",
+      "shortUrl": "http://rd.io/x/Qi1DEDA/",
+      "hasRadio": true,
+      "length": 27,
+      "artistUrl": "/artist/Toumani_Diabate/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr85875",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr85875"
+    },
+    "rosetta": "rdio-US:artist:r85875",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR9JEJR1187FB4EDD7",
+        "artist_location": {
+          "city": null,
+          "region": null,
+          "location": "Mali",
+          "country": "Mali"
+        },
+        "name": "Toumani Diabaté"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl136084|415316",
+      "name": "Mario Escudero",
+      "artistKey": "r136084",
+      "url": "/artist/Mario_Escudero/",
+      "shortUrl": "http://rd.io/x/Qi1ATNc/",
+      "hasRadio": true,
+      "length": 69,
+      "artistUrl": "/artist/Mario_Escudero/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr136084",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr136084"
+    },
+    "rosetta": "rdio-US:artist:r136084",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARQ2Z1Q11A348F0DB4",
+        "artist_location": {
+          "city": "Alicante",
+          "region": "Comunidad Valenciana",
+          "location": "Alicante, Valencia, ES",
+          "country": "Spain"
+        },
+        "name": "Mario Escudero"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl402832|415316",
+      "name": "Gold Panda",
+      "artistKey": "r402832",
+      "url": "/artist/Gold_Panda/",
+      "shortUrl": "http://rd.io/x/Qi1EetM/",
+      "hasRadio": true,
+      "length": 93,
+      "artistUrl": "/artist/Gold_Panda/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr402832",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr402832"
+    },
+    "rosetta": "rdio-US:artist:r402832",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARUQQLL12086C15939",
+        "artist_location": {
+          "city": "Chelmsford",
+          "region": null,
+          "location": "Chelmsford, England",
+          "country": "United Kingdom"
+        },
+        "name": "Gold Panda"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl591646|415316",
+      "name": "Cyril Pahinui, Bob Brozman",
+      "artistKey": "r591646",
+      "url": "/artist/Cyril_Pahinui%2C_Bob_Brozman/",
+      "shortUrl": "http://rd.io/x/Qi1LWF0/",
+      "hasRadio": true,
+      "length": 18,
+      "artistUrl": "/artist/Cyril_Pahinui%2C_Bob_Brozman/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr591646",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr591646"
+    },
+    "rosetta": "rdio-US:artist:r591646",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARXBM4N1187B98ECA5",
+        "artist_location": {
+          "city": "Waimanalo",
+          "region": "Hawaii",
+          "location": "Waimanalo, HI, US",
+          "country": "United States"
+        },
+        "name": "Cyril Pahinui"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl86224|415316",
+      "name": "Tom Petty",
+      "artistKey": "r86224",
+      "url": "/artist/Tom_Petty/",
+      "shortUrl": "http://rd.io/x/Qi1DD5M/",
+      "hasRadio": true,
+      "length": 91,
+      "artistUrl": "/artist/Tom_Petty/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr86224",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr86224"
+    },
+    "rosetta": "rdio-US:artist:r86224",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARBEBBY1187B9B43DB",
+        "artist_location": {
+          "city": "Gainesville",
+          "region": "Florida",
+          "location": "Gainesville, FL, US",
+          "country": "United States"
+        },
+        "name": "Tom Petty"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl93772|415316",
+      "name": "Astrud Gilberto",
+      "artistKey": "r93772",
+      "url": "/artist/Astrud_Gilberto/",
+      "shortUrl": "http://rd.io/x/Qi1DMQ8/",
+      "hasRadio": true,
+      "length": 667,
+      "artistUrl": "/artist/Astrud_Gilberto/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr93772",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr93772"
+    },
+    "rosetta": "rdio-US:artist:r93772",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARVIQL81187FB4E62B",
+        "artist_location": {
+          "city": "Salvador",
+          "region": "Bahia",
+          "location": "Salvador, Bahia, BR",
+          "country": "Brazil"
+        },
+        "name": "Astrud Gilberto"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl294357|415316",
+      "name": "James Blake",
+      "artistKey": "r294357",
+      "url": "/artist/James_Blake/",
+      "shortUrl": "http://rd.io/x/Qi1GIpY/",
+      "hasRadio": true,
+      "length": 42,
+      "artistUrl": "/artist/James_Blake/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr294357",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr294357"
+    },
+    "rosetta": "rdio-US:artist:r294357",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARDGKKR122BCFCD396",
+        "artist_location": {
+          "city": "London",
+          "region": "England",
+          "location": "Enfield, London, England, GB",
+          "country": "United Kingdom"
+        },
+        "name": "James Blake"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl372032|415316",
+      "name": "Kink Gong",
+      "artistKey": "r372032",
+      "url": "/artist/Kink_Gong/",
+      "shortUrl": "http://rd.io/x/Qi1H8gM/",
+      "hasRadio": true,
+      "length": 201,
+      "artistUrl": "/artist/Kink_Gong/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr372032",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr372032"
+    },
+    "rosetta": "rdio-US:artist:r372032",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARZQWTF1271F574E72",
+        "artist_location": {
+          "city": null,
+          "region": null,
+          "location": "Switzerland",
+          "country": "Switzerland"
+        },
+        "name": "Kink Gong"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl1216106|415316",
+      "name": "Kishi Bashi",
+      "artistKey": "r1216106",
+      "url": "/artist/Kishi_Bashi/",
+      "shortUrl": "http://rd.io/x/Qi1Q0Sk/",
+      "hasRadio": true,
+      "length": 20,
+      "artistUrl": "/artist/Kishi_Bashi/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr1216106",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr1216106"
+    },
+    "rosetta": "rdio-US:artist:r1216106",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARNEMUD1312083EB67",
+        "artist_location": {
+          "city": "Seattle",
+          "region": "Washington",
+          "location": "Seattle, WA, US",
+          "country": "United States"
+        },
+        "name": "Kishi Bashi"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl65026|415316",
+      "name": "Foday Musa Suso",
+      "artistKey": "r65026",
+      "url": "/artist/Foday_Musa_Suso/",
+      "shortUrl": "http://rd.io/x/Qi28XQ/",
+      "hasRadio": true,
+      "length": 31,
+      "artistUrl": "/artist/Foday_Musa_Suso/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr65026",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr65026"
+    },
+    "rosetta": "rdio-US:artist:r65026",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARD1SY41187FB40F63",
+        "artist_location": {
+          "city": null,
+          "region": null,
+          "location": "Gambia",
+          "country": "Gambia"
+        },
+        "name": "Foday Musa Suso"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl69552|415316",
+      "name": "Stevie Wonder",
+      "artistKey": "r69552",
+      "url": "/artist/Stevie_Wonder/",
+      "shortUrl": "http://rd.io/x/Qi1DUPM/",
+      "hasRadio": true,
+      "length": 1052,
+      "artistUrl": "/artist/Stevie_Wonder/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr69552",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr69552"
+    },
+    "rosetta": "rdio-US:artist:r69552",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARUM60L1187B9A7E1F",
+        "artist_location": {
+          "city": "Detroit",
+          "region": "MI",
+          "location": "Detroit Michigan",
+          "country": "United States"
+        },
+        "name": "Stevie Wonder"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl112354|415316",
+      "name": "Sam Cooke",
+      "artistKey": "r112354",
+      "url": "/artist/Sam_Cooke/",
+      "shortUrl": "http://rd.io/x/Qi1D6aE/",
+      "hasRadio": true,
+      "length": 864,
+      "artistUrl": "/artist/Sam_Cooke/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr112354",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr112354"
+    },
+    "rosetta": "rdio-US:artist:r112354",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR4K2P91187B9B2B35",
+        "artist_location": {
+          "city": "Chicago",
+          "region": "Illinois",
+          "location": "Chicago, IL, US",
+          "country": "United States"
+        },
+        "name": "Sam Cooke"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl376533|415316",
+      "name": "Fool's Gold",
+      "artistKey": "r376533",
+      "url": "/artist/Fool%27s_Gold/",
+      "shortUrl": "http://rd.io/x/Qi1H4ZY/",
+      "hasRadio": true,
+      "length": 42,
+      "artistUrl": "/artist/Fool%27s_Gold/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr376533",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr376533"
+    },
+    "rosetta": "rdio-US:artist:r376533",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARGCFOI12454A37DD0",
+        "artist_location": {
+          "city": "Los Angeles",
+          "region": "California",
+          "location": "Los Angeles, CA, US",
+          "country": "United States"
+        },
+        "name": "Fool's Gold"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl12364|415316",
+      "name": "Asleep At The Wheel",
+      "artistKey": "r12364",
+      "url": "/artist/Asleep_At_The_Wheel/",
+      "shortUrl": "http://rd.io/x/Qi1yEw/",
+      "hasRadio": true,
+      "length": 574,
+      "artistUrl": "/artist/Asleep_At_The_Wheel/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr12364",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr12364"
+    },
+    "rosetta": "rdio-US:artist:r12364",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR0CDSK1187FB52ED6",
+        "artist_location": {
+          "city": "Paw Paw",
+          "region": "West Virginia",
+          "location": "Paw Paw, WV, US",
+          "country": "United States"
+        },
+        "name": "Asleep at the Wheel"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl13425|415316",
+      "name": "Eddy Raven",
+      "artistKey": "r13425",
+      "url": "/artist/Eddy_Raven/",
+      "shortUrl": "http://rd.io/x/Qi12Lg/",
+      "hasRadio": true,
+      "length": 167,
+      "artistUrl": "/artist/Eddy_Raven/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr13425",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr13425"
+    },
+    "rosetta": "rdio-US:artist:r13425",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARHT0B11187B993CB3",
+        "artist_location": {
+          "city": "Lafayette",
+          "region": "Louisiana",
+          "location": "Lafayette, LA, US",
+          "country": "United States"
+        },
+        "name": "Eddy Raven"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl91283|415316",
+      "name": "Outkast",
+      "artistKey": "r91283",
+      "url": "/artist/Outkast/",
+      "shortUrl": "http://rd.io/x/Qi1DO9A/",
+      "hasRadio": true,
+      "length": 290,
+      "artistUrl": "/artist/Outkast/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr91283",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr91283"
+    },
+    "rosetta": "rdio-US:artist:r91283",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR3MSAN1187B98F06B",
+        "artist_location": {
+          "city": "Atlanta",
+          "region": "Georgia",
+          "location": "Atlanta, GA, US",
+          "country": "United States"
+        },
+        "name": "OutKast"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl141081|415316",
+      "name": "Bill Withers",
+      "artistKey": "r141081",
+      "url": "/artist/Bill_Withers/",
+      "shortUrl": "http://rd.io/x/Qi1AeFo/",
+      "hasRadio": true,
+      "length": 224,
+      "artistUrl": "/artist/Bill_Withers/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr141081",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr141081"
+    },
+    "rosetta": "rdio-US:artist:r141081",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARBPIT91187B9ABC56",
+        "artist_location": {
+          "city": "Slab Fork",
+          "region": "West Virginia",
+          "location": "Slab Fork, WV, US",
+          "country": "United States"
+        },
+        "name": "Bill Withers"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl24337|415316",
+      "name": "Sly & The Family Stone",
+      "artistKey": "r24337",
+      "url": "/artist/Sly__The_Family_Stone/",
+      "shortUrl": "http://rd.io/x/Qi0dTg/",
+      "hasRadio": true,
+      "length": 641,
+      "artistUrl": "/artist/Sly__The_Family_Stone/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr24337",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr24337"
+    },
+    "rosetta": "rdio-US:artist:r24337",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARDJZ181187B9B7FBF",
+        "artist_location": {
+          "city": "San Francisco",
+          "region": "CA",
+          "location": "San Francisco, CA",
+          "country": "United States"
+        },
+        "name": "Sly & The Family Stone"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl333750|415316",
+      "name": "Shugo Tokumaru",
+      "artistKey": "r333750",
+      "url": "/artist/Shugo_Tokumaru/",
+      "shortUrl": "http://rd.io/x/Qi1HSPU/",
+      "hasRadio": true,
+      "length": 59,
+      "artistUrl": "/artist/Shugo_Tokumaru/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr333750",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr333750"
+    },
+    "rosetta": "rdio-US:artist:r333750",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARB6QGA1187FB37C3C",
+        "artist_location": {
+          "city": "Tokyo",
+          "region": null,
+          "location": "Tokyo, Japan",
+          "country": "Japan"
+        },
+        "name": "Shugo Tokumaru"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl909264|415316",
+      "name": "Uncle Earl",
+      "artistKey": "r909264",
+      "url": "/artist/Uncle_Earl/",
+      "shortUrl": "http://rd.io/x/Qi1PgJM/",
+      "hasRadio": true,
+      "length": 43,
+      "artistUrl": "/artist/Uncle_Earl/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr909264",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr909264"
+    },
+    "rosetta": "rdio-US:artist:r909264",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR3CTQW1187FB37398",
+        "artist_location": {
+          "city": null,
+          "region": null,
+          "location": "United States",
+          "country": "United States"
+        },
+        "name": "Uncle Earl"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl86774|415316",
+      "name": "John Prine",
+      "artistKey": "r86774",
+      "url": "/artist/John_Prine/",
+      "shortUrl": "http://rd.io/x/Qi1DDbU/",
+      "hasRadio": true,
+      "length": 268,
+      "artistUrl": "/artist/John_Prine/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr86774",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr86774"
+    },
+    "rosetta": "rdio-US:artist:r86774",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR35E9F1187B9B4877",
+        "artist_location": {
+          "city": "Maywood",
+          "region": "Illinois",
+          "location": "Maywood, IL, US",
+          "country": "United States"
+        },
+        "name": "John Prine"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl88175|415316",
+      "name": "Various Artists / Explorer Series",
+      "artistKey": "r88175",
+      "url": "/artist/Various_Artists_/_Explorer_Series/",
+      "shortUrl": "http://rd.io/x/Qi1DByw/",
+      "hasRadio": true,
+      "length": 363,
+      "artistUrl": "/artist/Various_Artists_/_Explorer_Series/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr88175",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr88175"
+    },
+    "rosetta": "rdio-US:artist:r88175",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARSQJID1241B9C9ECF",
+        "artist_location": {
+          "city": null,
+          "region": null,
+          "location": "Jamaica",
+          "country": "Jamaica"
+        },
+        "name": "Various Artists / Explorer Series"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl113551|415316",
+      "name": "Moon Mullican",
+      "artistKey": "r113551",
+      "url": "/artist/Moon_Mullican/",
+      "shortUrl": "http://rd.io/x/Qi1D5Mw/",
+      "hasRadio": true,
+      "length": 64,
+      "artistUrl": "/artist/Moon_Mullican/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr113551",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr113551"
+    },
+    "rosetta": "rdio-US:artist:r113551",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARKEFM61187B9A8202",
+        "artist_location": {
+          "city": "Corrigan",
+          "region": "Texas",
+          "location": "Corrigan, TX, US",
+          "country": "United States"
+        },
+        "name": "Moon Mullican"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl87328|415316",
+      "name": "The Dillards",
+      "artistKey": "r87328",
+      "url": "/artist/The_Dillards/",
+      "shortUrl": "http://rd.io/x/Qi1DCmM/",
+      "hasRadio": true,
+      "length": 157,
+      "artistUrl": "/artist/The_Dillards/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr87328",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr87328"
+    },
+    "rosetta": "rdio-US:artist:r87328",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR9I6VS1187B99BB78",
+        "artist_location": {
+          "city": null,
+          "region": "Missouri",
+          "location": "Missouri, US",
+          "country": "United States"
+        },
+        "name": "The Dillards"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl372843|415316",
+      "name": "Béla Fleck & The Flecktones",
+      "artistKey": "r372843",
+      "url": "/artist/B%C3%A9la_Fleck__The_Flecktones/",
+      "shortUrl": "http://rd.io/x/Qi1H7yg/",
+      "hasRadio": true,
+      "length": 239,
+      "artistUrl": "/artist/B%C3%A9la_Fleck__The_Flecktones/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr372843",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr372843"
+    },
+    "rosetta": "rdio-US:artist:r372843",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARGN1M71187B9926AE",
+        "artist_location": {
+          "city": "Nashville",
+          "region": "TN",
+          "location": "Nashville, TN",
+          "country": "United States"
+        },
+        "name": "Béla Fleck and The Flecktones"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl393719|415316",
+      "name": "Bob Marley & The Wailers",
+      "artistKey": "r393719",
+      "url": "/artist/Bob_Marley__The_Wailers/",
+      "shortUrl": "http://rd.io/x/Qi1EXrQ/",
+      "hasRadio": true,
+      "length": 1543,
+      "artistUrl": "/artist/Bob_Marley__The_Wailers/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr393719",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr393719"
+    },
+    "rosetta": "rdio-US:artist:r393719",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARAZCWP129462A97F1",
+        "artist_location": {
+          "city": null,
+          "region": "Saint Ann",
+          "location": "Saint Ann, JM",
+          "country": "Jamaica"
+        },
+        "name": "Bob Marley"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl22999|415316",
+      "name": "Sam Amidon",
+      "artistKey": "r22999",
+      "url": "/artist/Sam_Amidon/",
+      "shortUrl": "http://rd.io/x/Qi0biA/",
+      "hasRadio": true,
+      "length": 23,
+      "artistUrl": "/artist/Sam_Amidon/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr22999",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr22999"
+    },
+    "rosetta": "rdio-US:artist:r22999",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARTJ6AE1187B98CCC5",
+        "artist_location": {
+          "city": null,
+          "region": "Vermont",
+          "location": "Vermont, US",
+          "country": "United States"
+        },
+        "name": "Sam Amidon"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl99583|415316",
+      "name": "Adam Steffey",
+      "artistKey": "r99583",
+      "url": "/artist/Adam_Steffey/",
+      "shortUrl": "http://rd.io/x/Qi1D27w/",
+      "hasRadio": true,
+      "length": 59,
+      "artistUrl": "/artist/Adam_Steffey/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr99583",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr99583"
+    },
+    "rosetta": "rdio-US:artist:r99583",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARWVNTN1187FB45026",
+        "artist_location": {
+          "city": null,
+          "region": "North Carolina",
+          "location": "North Carolina, US",
+          "country": "United States"
+        },
+        "name": "Adam Steffey"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl28884|415316",
+      "name": "The Melodians",
+      "artistKey": "r28884",
+      "url": "/artist/The_Melodians/",
+      "shortUrl": "http://rd.io/x/Qi0yiw/",
+      "hasRadio": true,
+      "length": 171,
+      "artistUrl": "/artist/The_Melodians/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr28884",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr28884"
+    },
+    "rosetta": "rdio-US:artist:r28884",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARVODOV1187B9AE0CC",
+        "artist_location": {
+          "city": "Kingston",
+          "region": "Saint Andrew",
+          "location": "Kingston, Saint Andrew, JM",
+          "country": "Jamaica"
+        },
+        "name": "The Melodians"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl60710|415316",
+      "name": "D'Angelo",
+      "artistKey": "r60710",
+      "url": "/artist/D%27Angelo/",
+      "shortUrl": "http://rd.io/x/Qi2veQ/",
+      "hasRadio": true,
+      "length": 76,
+      "artistUrl": "/artist/D%27Angelo/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr60710",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr60710"
+    },
+    "rosetta": "rdio-US:artist:r60710",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR8JZX31187B98A84F",
+        "artist_location": {
+          "city": "Lakeside",
+          "region": "VA",
+          "location": "Richmond, Virginia",
+          "country": "United States"
+        },
+        "name": "D'Angelo"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl286992|415316",
+      "name": "Milagres",
+      "artistKey": "r286992",
+      "url": "/artist/Milagres/",
+      "shortUrl": "http://rd.io/x/Qi1GPlM/",
+      "hasRadio": true,
+      "length": 24,
+      "artistUrl": "/artist/Milagres/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr286992",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr286992"
+    },
+    "rosetta": "rdio-US:artist:r286992",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARKRRKF129CDBEFB76",
+        "artist_location": {
+          "city": "Brooklyn",
+          "region": "New York",
+          "location": "Brooklyn, New York, NY, US",
+          "country": "United States"
+        },
+        "name": "Milagres"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl142231|415316",
+      "name": "Major Lazer",
+      "artistKey": "r142231",
+      "url": "/artist/Major_Lazer/",
+      "shortUrl": "http://rd.io/x/Qi1AdNQ/",
+      "hasRadio": true,
+      "length": 113,
+      "artistUrl": "/artist/Major_Lazer/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr142231",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr142231"
+    },
+    "rosetta": "rdio-US:artist:r142231",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARLGOUD12298900ACE",
+        "artist_location": {
+          "city": null,
+          "region": null,
+          "location": "Jamaica",
+          "country": "Jamaica"
+        },
+        "name": "Major Lazer"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl907|415316",
+      "name": "Taj Mahal",
+      "artistKey": "r907",
+      "url": "/artist/Taj_Mahal/",
+      "shortUrl": "http://rd.io/x/Qi1B1A/",
+      "hasRadio": true,
+      "length": 541,
+      "artistUrl": "/artist/Taj_Mahal/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr907",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr907"
+    },
+    "rosetta": "rdio-US:artist:r907",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARA7Y2Y1187B9B8588",
+        "artist_location": {
+          "city": "Berkeley",
+          "region": "CA",
+          "location": "berkeley, california",
+          "country": "United States"
+        },
+        "name": "Taj Mahal"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl30690|415316",
+      "name": "Phil Collins",
+      "artistKey": "r30690",
+      "url": "/artist/Phil_Collins/",
+      "shortUrl": "http://rd.io/x/Qi01vQ/",
+      "hasRadio": true,
+      "length": 224,
+      "artistUrl": "/artist/Phil_Collins/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr30690",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr30690"
+    },
+    "rosetta": "rdio-US:artist:r30690",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR9W3X91187FB3994C",
+        "artist_location": {
+          "city": "London",
+          "region": "England",
+          "location": "Chiswick, London, England, GB",
+          "country": "United Kingdom"
+        },
+        "name": "Phil Collins"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl106965|415316",
+      "name": "Flatt & Scruggs",
+      "artistKey": "r106965",
+      "url": "/artist/Flatt__Scruggs/",
+      "shortUrl": "http://rd.io/x/Qi1D_pY/",
+      "hasRadio": true,
+      "length": 241,
+      "artistUrl": "/artist/Flatt__Scruggs/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr106965",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr106965"
+    },
+    "rosetta": "rdio-US:artist:r106965",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARJSCWB11F4C8489A9",
+        "artist_location": {
+          "city": null,
+          "region": null,
+          "location": "United States",
+          "country": "United States"
+        },
+        "name": "Flatt & Scruggs"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl5583|415316",
+      "name": "Fats Waller",
+      "artistKey": "r5583",
+      "url": "/artist/Fats_Waller/",
+      "shortUrl": "http://rd.io/x/Qi1XkA/",
+      "hasRadio": true,
+      "length": 3343,
+      "artistUrl": "/artist/Fats_Waller/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr5583",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr5583"
+    },
+    "rosetta": "rdio-US:artist:r5583",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARR1CN21187FB36BD6",
+        "artist_location": {
+          "city": "New York",
+          "region": "NY",
+          "location": "New York, NY",
+          "country": "United States"
+        },
+        "name": "Fats Waller"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl188465|415316",
+      "name": "Marlena Shaw",
+      "artistKey": "r188465",
+      "url": "/artist/Marlena_Shaw/",
+      "shortUrl": "http://rd.io/x/Qi1Av3I/",
+      "hasRadio": true,
+      "length": 112,
+      "artistUrl": "/artist/Marlena_Shaw/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr188465",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr188465"
+    },
+    "rosetta": "rdio-US:artist:r188465",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR7F2611187FB4049B",
+        "artist_location": {
+          "city": "New Rochelle",
+          "region": "NY",
+          "location": "New Rochelle, NY",
+          "country": "United States"
+        },
+        "name": "Marlena Shaw"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl2685|415316",
+      "name": "Bob Brozman",
+      "artistKey": "r2685",
+      "url": "/artist/Bob_Brozman/",
+      "shortUrl": "http://rd.io/x/Qi1IIg/",
+      "hasRadio": true,
+      "length": 70,
+      "artistUrl": "/artist/Bob_Brozman/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr2685",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr2685"
+    },
+    "rosetta": "rdio-US:artist:r2685",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARZPBVB1187FB38B5B",
+        "artist_location": {
+          "city": "New York",
+          "region": "New York",
+          "location": "New York, NY, US",
+          "country": "United States"
+        },
+        "name": "Bob Brozman"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl85003|415316",
+      "name": "Dan Deacon",
+      "artistKey": "r85003",
+      "url": "/artist/Dan_Deacon/",
+      "shortUrl": "http://rd.io/x/Qi1DE0g/",
+      "hasRadio": true,
+      "length": 64,
+      "artistUrl": "/artist/Dan_Deacon/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr85003",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr85003"
+    },
+    "rosetta": "rdio-US:artist:r85003",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARAKXIM1187FB53660",
+        "artist_location": {
+          "city": "Baltimore",
+          "region": "Maryland",
+          "location": "Baltimore, MD, US",
+          "country": "United States"
+        },
+        "name": "Dan Deacon"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl6835|415316",
+      "name": "Johann Sebastian Bach",
+      "artistKey": "r6835",
+      "url": "/artist/Johann_Sebastian_Bach/",
+      "shortUrl": "http://rd.io/x/Qi1Y7A/",
+      "hasRadio": true,
+      "length": 30928,
+      "artistUrl": "/artist/Johann_Sebastian_Bach/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr6835",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr6835"
+    },
+    "rosetta": "rdio-US:artist:r6835",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARVFIOO1187FB39078",
+        "artist_location": {
+          "city": "Eisenach",
+          "region": "Thüringen",
+          "location": "Eisenach, Thuringia, DE",
+          "country": "Germany"
+        },
+        "name": "Johann Sebastian Bach"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl12912|415316",
+      "name": "Doc Watson",
+      "artistKey": "r12912",
+      "url": "/artist/Doc_Watson/",
+      "shortUrl": "http://rd.io/x/Qi1wLw/",
+      "hasRadio": true,
+      "length": 887,
+      "artistUrl": "/artist/Doc_Watson/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr12912",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr12912"
+    },
+    "rosetta": "rdio-US:artist:r12912",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARH10OY1187B9B9612",
+        "artist_location": {
+          "city": "Deep Gap",
+          "region": "North Carolina",
+          "location": "Deep Gap, NC, US",
+          "country": "United States"
+        },
+        "name": "Doc Watson"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl24268|415316",
+      "name": "Bob Dylan",
+      "artistKey": "r24268",
+      "url": "/artist/Bob_Dylan/",
+      "shortUrl": "http://rd.io/x/Qi0ckw/",
+      "hasRadio": true,
+      "length": 1892,
+      "artistUrl": "/artist/Bob_Dylan/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr24268",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr24268"
+    },
+    "rosetta": "rdio-US:artist:r24268",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR5FP401187FB523C9",
+        "artist_location": {
+          "city": "Duluth",
+          "region": "Minnesota",
+          "location": "Duluth, MN, US",
+          "country": "United States"
+        },
+        "name": "Bob Dylan"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl349256|415316",
+      "name": "Steve Earle and The Del McCoury Band",
+      "artistKey": "r349256",
+      "url": "/artist/Steve_Earle_and_The_Del_McCoury_Band/",
+      "shortUrl": "http://rd.io/x/Qi1HCws/",
+      "hasRadio": true,
+      "length": 14,
+      "artistUrl": "/artist/Steve_Earle_and_The_Del_McCoury_Band/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr349256",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr349256"
+    },
+    "rosetta": "rdio-US:artist:r349256",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARRX7Z01187B9AC449",
+        "artist_location": {
+          "city": "San Antonio",
+          "region": "Texas",
+          "location": "San Antonio, TX, US",
+          "country": "United States"
+        },
+        "name": "Steve Earle"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl30706|415316",
+      "name": "Modern Jazz Quartet",
+      "artistKey": "r30706",
+      "url": "/artist/Modern_Jazz_Quartet/",
+      "shortUrl": "http://rd.io/x/Qi01rQ/",
+      "hasRadio": true,
+      "length": 714,
+      "artistUrl": "/artist/Modern_Jazz_Quartet/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr30706",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr30706"
+    },
+    "rosetta": "rdio-US:artist:r30706",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARDMGXA11F50C475C4",
+        "artist_location": {
+          "city": "Manhattan",
+          "region": "New York",
+          "location": "Manhattan, New York, NY, US",
+          "country": "United States"
+        },
+        "name": "Modern Jazz Quartet"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl60973|415316",
+      "name": "Emmylou Harris",
+      "artistKey": "r60973",
+      "url": "/artist/Emmylou_Harris/",
+      "shortUrl": "http://rd.io/x/Qi2scg/",
+      "hasRadio": true,
+      "length": 562,
+      "artistUrl": "/artist/Emmylou_Harris/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr60973",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr60973"
+    },
+    "rosetta": "rdio-US:artist:r60973",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR9VCSR1187B9B879E",
+        "artist_location": {
+          "city": "Birmingham",
+          "region": "AL",
+          "location": "Birmingham, AL",
+          "country": "United States"
+        },
+        "name": "Emmylou Harris"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl84946|415316",
+      "name": "Devendra Banhart",
+      "artistKey": "r84946",
+      "url": "/artist/Devendra_Banhart/",
+      "shortUrl": "http://rd.io/x/Qi1DFJE/",
+      "hasRadio": true,
+      "length": 171,
+      "artistUrl": "/artist/Devendra_Banhart/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr84946",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr84946"
+    },
+    "rosetta": "rdio-US:artist:r84946",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARLNQBR1187B9B9C4D",
+        "artist_location": {
+          "city": "Houston",
+          "region": "Texas",
+          "location": "Houston, TX, US",
+          "country": "United States"
+        },
+        "name": "Devendra Banhart"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl178057|415316",
+      "name": "Tommy Peoples",
+      "artistKey": "r178057",
+      "url": "/artist/Tommy_Peoples/",
+      "shortUrl": "http://rd.io/x/Qi1A6Mo/",
+      "hasRadio": true,
+      "length": 45,
+      "artistUrl": "/artist/Tommy_Peoples/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr178057",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr178057"
+    },
+    "rosetta": "rdio-US:artist:r178057",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARLG3K81187FB3EF26",
+        "artist_location": {
+          "city": null,
+          "region": null,
+          "location": "Ireland",
+          "country": "Ireland"
+        },
+        "name": "Tommy Peoples"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl19837|415316",
+      "name": "Antônio Carlos Jobim",
+      "artistKey": "r19837",
+      "url": "/artist/Ant%C3%B4nio_Carlos_Jobim/",
+      "shortUrl": "http://rd.io/x/Qi0PIg/",
+      "hasRadio": true,
+      "length": 1007,
+      "artistUrl": "/artist/Ant%C3%B4nio_Carlos_Jobim/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr19837",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr19837"
+    },
+    "rosetta": "rdio-US:artist:r19837",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARIQC381187B9A825E",
+        "artist_location": {
+          "city": "Rio de Janeiro",
+          "region": "Rio de Janeiro",
+          "location": "Rio de Janeiro, Rio de Janeiro, BR",
+          "country": "Brazil"
+        },
+        "name": "Antônio Carlos Jobim"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl1325|415316",
+      "name": "Tony Allen",
+      "artistKey": "r1325",
+      "url": "/artist/Tony_Allen/",
+      "shortUrl": "http://rd.io/x/Qi1Hcg/",
+      "hasRadio": true,
+      "length": 50,
+      "artistUrl": "/artist/Tony_Allen/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr1325",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr1325"
+    },
+    "rosetta": "rdio-US:artist:r1325",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARF5FI71187FB4B9AE",
+        "artist_location": {
+          "city": "Lagos",
+          "region": "Lagos",
+          "location": "Lagos, Lagos, NG",
+          "country": "Nigeria"
+        },
+        "name": "Tony Allen"
+      }
+    }
+  },
+  {
+    "rdio": {
+      "userName": "Robert Stenson",
+      "key": "rl139355|415316",
+      "name": "Beck",
+      "artistKey": "r139355",
+      "url": "/artist/Beck/",
+      "shortUrl": "http://rd.io/x/Qi1Afxg/",
+      "hasRadio": true,
+      "length": 256,
+      "artistUrl": "/artist/Beck/",
+      "baseIcon": "artist/no-artist-image-square.png",
+      "radioKey": "rr139355",
+      "userKey": "s415316",
+      "icon": "http://rdio3img-a.akamaihd.net/artist/no-artist-image-square.png",
+      "type": "rl",
+      "topSongsKey": "tr139355"
+    },
+    "rosetta": "rdio-US:artist:r139355",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARC2XR11187FB5CC95",
+        "artist_location": {
+          "city": "Los Angeles",
+          "region": "California",
+          "location": "Los Angeles, CA, US",
+          "country": "United States"
+        },
+        "name": "Beck"
+      }
+    }
+  }
+]

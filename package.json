@@ -5,9 +5,11 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/stenson/kuo.git"
-  }, 
+  },
   "dependencies": {
-    "underscore": "*"
+    "underscore": "*",
+    "cli-color": "*",
+    "country-data": "*"
   },
   "readme": "How worldly your music?"
 }
