@@ -1,0 +1,682 @@
+{
+  "rdio-US:artist:r68827": {
+    "common": {
+      "name": "The Oscar Peterson Trio"
+    },
+    "rdio": {
+      "radioKey": "sr3139322",
+      "baseIcon": "album/a/5/8/000000000003e85a/1/square-200.jpg",
+      "canDownloadAlbumOnly": true,
+      "radio": {
+        "type": "sr",
+        "key": "sr3139322"
+      },
+      "artistUrl": "/artist/The_Oscar_Peterson_Trio/",
+      "duration": 172,
+      "album": "We Get Requests",
+      "isClean": false,
+      "albumUrl": "/artist/The_Oscar_Peterson_Trio/album/We_Get_Requests/",
+      "shortUrl": "http://rd.io/x/Qittubk/",
+      "albumArtist": "The Oscar Peterson Trio",
+      "canStream": true,
+      "embedUrl": "https://rd.io/e/Qittubk/",
+      "type": "t",
+      "price": "1.29",
+      "trackNum": 1,
+      "albumArtistKey": "r68827",
+      "key": "t3139322",
+      "icon": "http://rdio2img-a.akamaihd.net/album/a/5/8/000000000003e85a/1/square-200.jpg",
+      "canSample": true,
+      "name": "Quiet Nights Of Quiet Stars (Corcovado)",
+      "isExplicit": false,
+      "artistKey": "r68827",
+      "url": "/artist/The_Oscar_Peterson_Trio/album/We_Get_Requests/track/Quiet_Nights_Of_Quiet_Stars_(Corcovado)/",
+      "icon400": "http://rdio0img-a.akamaihd.net/album/a/5/8/000000000003e85a/1/square-400.jpg",
+      "artist": "The Oscar Peterson Trio",
+      "canDownload": true,
+      "length": 1,
+      "canTether": true,
+      "albumKey": "a256090"
+    },
+    "rosetta": "rdio-US:artist:r68827",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARDQRLK1187FB5A8B9",
+        "artist_location": {
+          "city": "Montreal",
+          "region": null,
+          "location": "Montreal, Canada",
+          "country": "Canada"
+        },
+        "name": "The Oscar Peterson Trio"
+      }
+    },
+    "geocoded": {
+      "id": 6077243,
+      "lng": -73.58780670166016,
+      "lat": 45.50883865356445,
+      "geocodingLevel": "CITY",
+      "name": "Montréal",
+      "city": "Montréal",
+      "state": "Montréal",
+      "countryCode": "CA"
+    }
+  },
+  "rdio-US:artist:r92544": {
+    "common": {
+      "name": "Toots & The Maytals"
+    },
+    "rdio": {
+      "radioKey": "sr2901368",
+      "baseIcon": "album/1/2/5/000000000003a521/1/square-200.jpg",
+      "canDownloadAlbumOnly": true,
+      "radio": {
+        "type": "sr",
+        "key": "sr2901368"
+      },
+      "artistUrl": "/artist/Toots__The_Maytals/",
+      "duration": 224,
+      "album": "The Very Best Of Toots & The Maytals",
+      "isClean": false,
+      "albumUrl": "/artist/Toots__The_Maytals/album/The_Very_Best_Of_Toots__The_Maytals/",
+      "shortUrl": "http://rd.io/x/QituGjs/",
+      "albumArtist": "Toots & The Maytals",
+      "canStream": true,
+      "embedUrl": "https://rd.io/e/QituGjs/",
+      "type": "t",
+      "price": "1.29",
+      "trackNum": 5,
+      "albumArtistKey": "r92544",
+      "key": "t2901368",
+      "icon": "http://rdio0img-a.akamaihd.net/album/1/2/5/000000000003a521/1/square-200.jpg",
+      "canSample": true,
+      "name": "Pressure Drop",
+      "isExplicit": false,
+      "artistKey": "r92544",
+      "url": "/artist/Toots__The_Maytals/album/The_Very_Best_Of_Toots__The_Maytals/track/Pressure_Drop/",
+      "icon400": "http://rdio2img-a.akamaihd.net/album/1/2/5/000000000003a521/1/square-400.jpg",
+      "artist": "Toots & The Maytals",
+      "canDownload": true,
+      "length": 1,
+      "canTether": true,
+      "albumKey": "a238881"
+    },
+    "rosetta": "rdio-US:artist:r92544",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARANIJI11F4C83EFD2",
+        "artist_location": {
+          "city": "Kingston",
+          "region": null,
+          "location": "Kingston, Jamaica",
+          "country": "Jamaica"
+        },
+        "name": "Toots and The Maytals"
+      }
+    },
+    "geocoded": {
+      "id": 3489853,
+      "lng": -76.80000305175781,
+      "lat": 17.9666690826416,
+      "geocodingLevel": "STATE",
+      "name": "Parish of Kingston",
+      "state": "Parish of Kingston",
+      "countryCode": "JM"
+    }
+  },
+  "rdio-US:artist:r23676": {
+    "common": {
+      "name": "Al Green"
+    },
+    "rdio": {
+      "radioKey": "sr2157806",
+      "baseIcon": "album/5/6/b/000000000002bb65/square-200.jpg",
+      "canDownloadAlbumOnly": false,
+      "radio": {
+        "type": "sr",
+        "key": "sr2157806"
+      },
+      "artistUrl": "/artist/Al_Green/",
+      "duration": 270,
+      "album": "Lay It Down",
+      "isClean": false,
+      "albumUrl": "/artist/Al_Green/album/Lay_It_Down/",
+      "shortUrl": "http://rd.io/x/Qitis60/",
+      "albumArtist": "Al Green",
+      "canStream": false,
+      "embedUrl": "https://rd.io/e/Qitis60/",
+      "type": "t",
+      "price": "None",
+      "trackNum": 1,
+      "albumArtistKey": "r23676",
+      "key": "t2157806",
+      "icon": "http://rdio0img-a.akamaihd.net/album/5/6/b/000000000002bb65/square-200.jpg",
+      "canSample": false,
+      "name": "Lay It Down",
+      "isExplicit": false,
+      "artistKey": "r23676",
+      "url": "/artist/Al_Green/album/Lay_It_Down/track/Lay_It_Down/",
+      "icon400": "http://rdio2img-a.akamaihd.net/album/5/6/b/000000000002bb65/square-400.jpg",
+      "artist": "Al Green",
+      "canDownload": false,
+      "length": 1,
+      "canTether": false,
+      "albumKey": "a179045"
+    },
+    "rosetta": "rdio-US:artist:r23676",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARNNRN31187B9AE7B7",
+        "artist_location": {
+          "city": "Forrest City",
+          "region": "Arkansas",
+          "location": "Forrest City, AR, US",
+          "country": "United States"
+        },
+        "name": "Al Green"
+      }
+    },
+    "geocoded": {
+      "id": 4111382,
+      "lng": -90.78983306884766,
+      "lat": 35.008148193359375,
+      "geocodingLevel": "CITY",
+      "name": "Forrest City",
+      "zipCode": "72336",
+      "city": "Forrest City",
+      "state": "Saint Francis County",
+      "countryCode": "US"
+    }
+  },
+  "rdio-US:artist:r1884635": {
+    "common": {
+      "name": "Kentucky Thunder, Ricky Skaggs"
+    },
+    "rdio": {
+      "radioKey": "sr4739093",
+      "baseIcon": "album/4/9/1/000000000005e194/square-200.jpg",
+      "canDownloadAlbumOnly": true,
+      "radio": {
+        "type": "sr",
+        "key": "sr4739093"
+      },
+      "artistUrl": "/artist/Kentucky_Thunder%2C_Ricky_Skaggs/",
+      "duration": 158,
+      "album": "Ancient Tones",
+      "isClean": false,
+      "albumUrl": "/artist/Kentucky_Thunder%2C_Ricky_Skaggs/album/Ancient_Tones/",
+      "shortUrl": "http://rd.io/x/QisKD1Y/",
+      "albumArtist": "Kentucky Thunder, Ricky Skaggs",
+      "canStream": true,
+      "embedUrl": "https://rd.io/e/QisKD1Y/",
+      "type": "t",
+      "price": "0.99",
+      "trackNum": 4,
+      "albumArtistKey": "r1884635",
+      "key": "t4739093",
+      "icon": "http://rdio2img-a.akamaihd.net/album/4/9/1/000000000005e194/square-200.jpg",
+      "canSample": true,
+      "name": "Mighty Dark To Travel",
+      "isExplicit": false,
+      "artistKey": "r1884635",
+      "url": "/artist/Kentucky_Thunder%2C_Ricky_Skaggs/album/Ancient_Tones/track/Mighty_Dark_To_Travel/",
+      "icon400": "http://rdio0img-a.akamaihd.net/album/4/9/1/000000000005e194/square-400.jpg",
+      "artist": "Kentucky Thunder, Ricky Skaggs",
+      "canDownload": true,
+      "length": 1,
+      "canTether": true,
+      "albumKey": "a385428"
+    },
+    "rosetta": "rdio-US:artist:r1884635",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARLEMUA1269FB25B61",
+        "artist_location": {
+          "city": null,
+          "region": "Tennessee",
+          "location": "Tennessee, US",
+          "country": "United States"
+        },
+        "name": "Kentucky Thunder"
+      }
+    },
+    "geocoded": {
+      "id": 4662168,
+      "lng": -86.2502670288086,
+      "lat": 35.75035095214844,
+      "geocodingLevel": "STATE",
+      "name": "Tennessee",
+      "state": "Tennessee",
+      "countryCode": "US"
+    }
+  },
+  "rdio-US:artist:r39047": {
+    "common": {
+      "name": "Luiz Bonfá"
+    },
+    "rdio": {
+      "radioKey": "sr8433540",
+      "baseIcon": "album/0/d/9/00000000000ac9d0/square-200.jpg",
+      "canDownloadAlbumOnly": false,
+      "radio": {
+        "type": "sr",
+        "key": "sr8433540"
+      },
+      "artistUrl": "/artist/Luiz_Bonfa/",
+      "duration": 101,
+      "album": "Solo in Rio 1959",
+      "isClean": false,
+      "albumUrl": "/artist/Luiz_Bonfa/album/Solo_in_Rio_1959/",
+      "shortUrl": "http://rd.io/x/QivC8Mc/",
+      "albumArtist": "Luiz Bonfá",
+      "canStream": true,
+      "embedUrl": "https://rd.io/e/QivC8Mc/",
+      "type": "t",
+      "price": "0.99",
+      "trackNum": 1,
+      "albumArtistKey": "r39047",
+      "key": "t8433540",
+      "icon": "http://rdio0img-a.akamaihd.net/album/0/d/9/00000000000ac9d0/square-200.jpg",
+      "canSample": true,
+      "name": "Pernambuco",
+      "isExplicit": false,
+      "artistKey": "r39047",
+      "url": "/artist/Luiz_Bonfa/album/Solo_in_Rio_1959/track/Pernambuco/",
+      "icon400": "http://rdio2img-a.akamaihd.net/album/0/d/9/00000000000ac9d0/square-400.jpg",
+      "artist": "Luiz Bonfá",
+      "canDownload": true,
+      "length": 1,
+      "canTether": true,
+      "albumKey": "a707024"
+    },
+    "rosetta": "rdio-US:artist:r39047",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARQCHDN1187FB4C7C2",
+        "artist_location": {
+          "city": "Rio de Janeiro",
+          "region": "Rio de Janeiro",
+          "location": "Rio de Janeiro, Rio de Janeiro, BR",
+          "country": "Brazil"
+        },
+        "name": "Luiz Bonfá"
+      }
+    },
+    "geocoded": {
+      "id": 105000979,
+      "lng": -43.2077561590221,
+      "lat": -22.902611704860895,
+      "geocodingLevel": "STREET",
+      "streetType": "SERVICE",
+      "city": "Rio de Janeiro",
+      "countryCode": "BR"
+    }
+  },
+  "rdio-US:artist:r13913": {
+    "common": {
+      "name": "Generationals"
+    },
+    "rdio": {
+      "radioKey": "sr7896395",
+      "baseIcon": "album/c/9/c/00000000000a1c9c/square-200.jpg",
+      "canDownloadAlbumOnly": true,
+      "radio": {
+        "type": "sr",
+        "key": "sr7896395"
+      },
+      "artistUrl": "/artist/Generationals/",
+      "duration": 202,
+      "album": "Actor-Caster",
+      "isClean": false,
+      "albumUrl": "/artist/Generationals/album/Actor-Caster/",
+      "shortUrl": "http://rd.io/x/Qis6Igg/",
+      "albumArtist": "Generationals",
+      "canStream": true,
+      "embedUrl": "https://rd.io/e/Qis6Igg/",
+      "type": "t",
+      "price": "0.99",
+      "trackNum": 1,
+      "albumArtistKey": "r13913",
+      "key": "t7896395",
+      "icon": "http://rdio0img-a.akamaihd.net/album/c/9/c/00000000000a1c9c/square-200.jpg",
+      "canSample": true,
+      "name": "Ten-Twenty-Ten",
+      "isExplicit": false,
+      "artistKey": "r13913",
+      "url": "/artist/Generationals/album/Actor-Caster/track/Ten-Twenty-Ten/",
+      "icon400": "http://rdio2img-a.akamaihd.net/album/c/9/c/00000000000a1c9c/square-400.jpg",
+      "artist": "Generationals",
+      "canDownload": true,
+      "length": 1,
+      "canTether": true,
+      "albumKey": "a662684"
+    },
+    "rosetta": "rdio-US:artist:r13913",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARDHGXB122BCFCD697",
+        "artist_location": {
+          "city": "New Orleans",
+          "region": "Louisiana",
+          "location": "New Orleans, LA, US",
+          "country": "United States"
+        },
+        "name": "Generationals"
+      }
+    },
+    "geocoded": {
+      "id": 4335045,
+      "lng": -90.0750732421875,
+      "lat": 29.95465087890625,
+      "geocodingLevel": "CITY",
+      "name": "New Orleans",
+      "zipCode": "70165",
+      "city": "New Orleans",
+      "state": "Orleans Parish",
+      "countryCode": "US"
+    }
+  },
+  "rdio-US:artist:r615554": {
+    "common": {
+      "name": "Bahamas"
+    },
+    "rdio": {
+      "radioKey": "sr15406858",
+      "baseIcon": "album/7/0/a/000000000014ca07/1/square-200.jpg",
+      "canDownloadAlbumOnly": true,
+      "radio": {
+        "type": "sr",
+        "key": "sr15406858"
+      },
+      "artistUrl": "/artist/Bahamas/",
+      "duration": 236,
+      "album": "Barchords",
+      "isClean": false,
+      "albumUrl": "/artist/Bahamas/album/Barchords_1/",
+      "shortUrl": "http://rd.io/x/QiupSEk/",
+      "albumArtist": "Bahamas",
+      "canStream": true,
+      "embedUrl": "https://rd.io/e/QiupSEk/",
+      "type": "t",
+      "price": "1.29",
+      "trackNum": 1,
+      "albumArtistKey": "r615554",
+      "key": "t15406858",
+      "icon": "http://rdio2img-a.akamaihd.net/album/7/0/a/000000000014ca07/1/square-200.jpg",
+      "canSample": true,
+      "name": "Lost In The Light",
+      "isExplicit": false,
+      "artistKey": "r615554",
+      "url": "/artist/Bahamas/album/Barchords_1/track/Lost_In_The_Light/",
+      "icon400": "http://rdio0img-a.akamaihd.net/album/7/0/a/000000000014ca07/1/square-400.jpg",
+      "artist": "Bahamas",
+      "canDownload": true,
+      "length": 1,
+      "canTether": true,
+      "albumKey": "a1362439"
+    },
+    "rosetta": "rdio-US:artist:r615554",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARXPTHP127AF89505D",
+        "artist_location": {
+          "city": "Toronto",
+          "region": "Ontario",
+          "location": "Toronto, Ontario, CA",
+          "country": "Canada"
+        },
+        "name": "Bahamas"
+      }
+    },
+    "geocoded": {
+      "id": 6167865,
+      "lng": -79.41629791259766,
+      "lat": 43.700111389160156,
+      "geocodingLevel": "CITY",
+      "name": "Toronto",
+      "city": "Toronto",
+      "state": "Ontario",
+      "countryCode": "CA"
+    }
+  },
+  "rdio-US:artist:r8693": {
+    "common": {
+      "name": "Laura Gibson"
+    },
+    "rdio": {
+      "radioKey": "sr13867030",
+      "baseIcon": "album/b/6/f/0000000000128f6b/3/square-200.jpg",
+      "canDownloadAlbumOnly": false,
+      "radio": {
+        "type": "sr",
+        "key": "sr13867030"
+      },
+      "artistUrl": "/artist/Laura_Gibson/",
+      "duration": 230,
+      "album": "La Grande",
+      "isClean": false,
+      "albumUrl": "/artist/Laura_Gibson/album/La_Grande/",
+      "shortUrl": "http://rd.io/x/QiuRx1U/",
+      "albumArtist": "Laura Gibson",
+      "canStream": true,
+      "embedUrl": "https://rd.io/e/QiuRx1U/",
+      "type": "t",
+      "price": "None",
+      "trackNum": 1,
+      "albumArtistKey": "r8693",
+      "key": "t13867030",
+      "icon": "http://rdio1img-a.akamaihd.net/album/b/6/f/0000000000128f6b/3/square-200.jpg",
+      "canSample": true,
+      "name": "La Grande",
+      "isExplicit": false,
+      "artistKey": "r8693",
+      "url": "/artist/Laura_Gibson/album/La_Grande/track/La_Grande/",
+      "icon400": "http://rdio3img-a.akamaihd.net/album/b/6/f/0000000000128f6b/3/square-400.jpg",
+      "artist": "Laura Gibson",
+      "canDownload": false,
+      "length": 1,
+      "canTether": true,
+      "albumKey": "a1216363"
+    },
+    "rosetta": "rdio-US:artist:r8693",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARSJGWO1187B99364A",
+        "artist_location": {
+          "city": "Portland",
+          "region": "Oregon",
+          "location": "Portland, OR, US",
+          "country": "United States"
+        },
+        "name": "Laura Gibson"
+      }
+    },
+    "geocoded": {
+      "id": 5746545,
+      "lng": -122.67620849609375,
+      "lat": 45.5234489440918,
+      "geocodingLevel": "CITY",
+      "name": "Portland",
+      "zipCode": "97201",
+      "city": "Portland",
+      "state": "Multnomah County",
+      "countryCode": "US"
+    }
+  },
+  "rdio-US:artist:r1863": {
+    "common": {
+      "name": "Dr. Dog"
+    },
+    "rdio": {
+      "radioKey": "sr76437",
+      "baseIcon": "album/0/3/9/0000000000001930/square-200.jpg",
+      "canDownloadAlbumOnly": false,
+      "radio": {
+        "type": "sr",
+        "key": "sr76437"
+      },
+      "artistUrl": "/artist/Dr._Dog/",
+      "duration": 245,
+      "album": "Fate",
+      "isClean": false,
+      "albumUrl": "/artist/Dr._Dog/album/Fate/",
+      "shortUrl": "http://rd.io/x/QitDddY/",
+      "albumArtist": "Dr. Dog",
+      "canStream": true,
+      "embedUrl": "https://rd.io/e/QitDddY/",
+      "type": "t",
+      "price": "0.99",
+      "trackNum": 4,
+      "albumArtistKey": "r1863",
+      "key": "t76437",
+      "icon": "http://rdio1img-a.akamaihd.net/album/0/3/9/0000000000001930/square-200.jpg",
+      "canSample": true,
+      "name": "Army Of Ancients",
+      "isExplicit": false,
+      "artistKey": "r1863",
+      "url": "/artist/Dr._Dog/album/Fate/track/Army_Of_Ancients/",
+      "icon400": "http://rdio3img-a.akamaihd.net/album/0/3/9/0000000000001930/square-400.jpg",
+      "artist": "Dr. Dog",
+      "canDownload": true,
+      "length": 1,
+      "canTether": true,
+      "albumKey": "a6448"
+    },
+    "rosetta": "rdio-US:artist:r1863",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "ARW1XCK1187B9A2D47",
+        "artist_location": {
+          "city": "West Grove",
+          "region": "PA",
+          "location": "West Grove, PA",
+          "country": "United States"
+        },
+        "name": "Dr. Dog"
+      }
+    },
+    "geocoded": {
+      "id": 4562148,
+      "lng": -75.82743835449219,
+      "lat": 39.82204818725586,
+      "geocodingLevel": "CITY",
+      "name": "West Grove",
+      "zipCode": "19390",
+      "city": "West Grove",
+      "state": "Chester County",
+      "countryCode": "US"
+    }
+  },
+  "rdio-US:artist:r11212": {
+    "common": {
+      "name": "Lia Ices"
+    },
+    "rdio": {
+      "radioKey": "sr7449201",
+      "baseIcon": "album/f/9/e/0000000000097e9f/1/square-200.jpg",
+      "canDownloadAlbumOnly": true,
+      "radio": {
+        "type": "sr",
+        "key": "sr7449201"
+      },
+      "artistUrl": "/artist/Lia_Ices/",
+      "duration": 323,
+      "album": "Grown Unknown",
+      "isClean": false,
+      "albumUrl": "/artist/Lia_Ices/album/Grown_Unknown/",
+      "shortUrl": "http://rd.io/x/Qisz9TI/",
+      "albumArtist": "Lia Ices",
+      "canStream": true,
+      "embedUrl": "https://rd.io/e/Qisz9TI/",
+      "type": "t",
+      "price": "0.99",
+      "trackNum": 1,
+      "albumArtistKey": "r11212",
+      "key": "t7449201",
+      "icon": "http://rdio2img-a.akamaihd.net/album/f/9/e/0000000000097e9f/1/square-200.jpg",
+      "canSample": true,
+      "name": "Love is Won",
+      "isExplicit": false,
+      "artistKey": "r11212",
+      "url": "/artist/Lia_Ices/album/Grown_Unknown/track/Love_is_Won/",
+      "icon400": "http://rdio0img-a.akamaihd.net/album/f/9/e/0000000000097e9f/1/square-400.jpg",
+      "artist": "Lia Ices",
+      "canDownload": true,
+      "length": 1,
+      "canTether": true,
+      "albumKey": "a622239"
+    },
+    "rosetta": "rdio-US:artist:r11212",
+    "echonest": {
+      "status": {
+        "version": "4.2",
+        "code": 0,
+        "message": "Success"
+      },
+      "artist": {
+        "id": "AR21FKX11C8A422DF2",
+        "artist_location": {
+          "city": "New York",
+          "region": "New York",
+          "location": "New York, NY, US",
+          "country": "United States"
+        },
+        "name": "Lia Ices"
+      }
+    },
+    "geocoded": {
+      "id": 5128638,
+      "lng": -75.4999008178711,
+      "lat": 43.00035095214844,
+      "geocodingLevel": "STATE",
+      "name": "New York",
+      "state": "New York",
+      "countryCode": "US"
+    }
+  }
+}

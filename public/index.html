@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <title>Kuo (How Worldly)</title>
+    <script src="/js/lib/d3.v3.js"></script>
+    <script src="/js/lib/queue.min.js"></script>
+    <script src="/js/lib/topojson.min.js"></script>
+    <script src="/js/lib/underscore.min.js"></script>
+    <style type="text/css">
+      * { margin: 0; padding: 0; } 
+
+      html, body, #container {
+        height: 100%;
+      }
+
+      body {
+        font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+        background-color: whitesmoke;
+      }
+      
+      #container {
+        position: relative;
+      }
+      
+      #centered {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        height: 0px;
+        width: 0px;
+        overflow: visible;
+      }
+      
+      #map {
+        position: absolute;
+        height: 400px;
+        width: 600px;
+        top: -204px;
+        left: -304px;
+        background: #eee;
+        border: 8px solid white;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <div id="centered">
+        <div id="map">
+          <canvas></canvas>
+        </div>
+      </div>
+    </div>
+    <script type="text/javascript">
+    
+      var width = 600;
+      var height = 400;
+      
+      var land = null;
+      var countries = null;
+      var borders = null;
+
+      var canvas = d3.selectAll("canvas").attr("width", width).attr("height", height);
+      
+      var path = d3.geo.path()
+        .projection(d3.geo.orthographic()
+          .scale(400)
+          .translate([width/2,height/2])
+          .clipAngle(40))
+        .context(canvas.getContext("2d"));
+
+      queue().defer(d3.json, "/data/world-110m.json").await(function(world) {
+        land = topojson.feature(world, world.objects.land);
+        countries = topojson.feature(world, world.objects.countries).features;
+        borders = topojson.mesh(world, world.objects.countries, function(a, b) { return a !== b; });
+        
+        moveToCountry(countries[0], 0);
+      });
+      
+      function moveToCountry(country, i) {
+        canvas.transition()
+          .duration(1250)
+          .each("start", function() {
+            //column.select("h3").text(country.name).style("color", colors[i]);
+          })
+          .tween("rotate", function() {
+            var proj = path.projection(),
+                c = path.context(),
+                p = d3.geo.centroid(country),
+                r = d3.interpolate(proj.rotate(), [-p[0], -p[1]]);
+            return function(t) {
+              proj.rotate(r(t));
+              c.clearRect(0, 0, width, height);
+              c.fillStyle = "#bdb", c.beginPath(), path(land), c.fill();
+              c.fillStyle = colors[i], c.beginPath(), path(country), c.fill();
+              c.strokeStyle = "#efe", c.lineWidth = .5, c.beginPath(), path(borders), c.stroke();
+              //var b = path.bounds(country);
+            };
+          });
+      }
+    
+    </script>
+  </body>
+</html>

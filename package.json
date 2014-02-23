@@ -9,7 +9,8 @@
   "dependencies": {
     "underscore": "*",
     "cli-color": "*",
-    "country-data": "*"
+    "country-data": "*",
+    "node-static": "*"
   },
   "readme": "How worldly your music?"
 }
