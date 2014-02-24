@@ -16,7 +16,7 @@
       }
 
       body {
-        font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+        font-family: Monaco, monospace;
         background-color: whitesmoke;
       }
       
@@ -35,10 +35,10 @@
       
       #map-container {
         position: absolute;
-        height: 500px;
+        height: 560px;
         width: 760px;
-        top: -254px;
-        left: -380px;
+        top: -280px;
+        left: -388px;
       }
       
       #map {
@@ -54,13 +54,24 @@
       }
       
       @-webkit-keyframes fade-out {
-        0% { opacity:1.0; fill: yellow; stroke: gold; stroke-width: 12px; }
-        100% { opacity:0.4; fill: none; stroke: salmon; stroke-width: 1px; }
+        0% { opacity:1.0; fill: yellow; fill-opacity:0.7; stroke: gold; stroke-width: 12px; }
+        100% { opacity:0.4; fill: salmon; fill-opacity:0.2; stroke: salmon; stroke-width: 2px; }
+      }
+      
+      @-moz-keyframes fade-out {
+        0% { opacity:1.0; fill: yellow; fill-opacity:0.7; stroke: gold; stroke-width: 12px; }
+        100% { opacity:0.4; fill: salmon; fill-opacity:0.2; stroke: salmon; stroke-width: 2px; }
       }
       
       circle {
-        -webkit-animation: fade-out 1s;
+        stroke: salmon;
+        stroke-width: 2px;
+        fill: salmon;
+        fill-opacity: 0.2;
+        -webkit-animation: fade-out 2s;
         -webkit-animation-fill-mode: forwards;
+        -moz-animation: fade-out 2s;
+        -moz-animation-fill-mode: forwards;
       }
       
       #slider {
@@ -82,6 +93,30 @@
         cursor: pointer;
       }
       
+      #metadata {
+        text-align: center;
+        color: #ccc;
+        margin-top: 10px;
+        font-size: 16px;
+        width: 100%;
+        height: 22px;
+      }
+      
+      #metadata span {
+        color: lightseagreen;
+      }
+      
+      #metadata em {
+        color: darksalmon;
+      }
+      
+      #instructions {
+        text-align: center;
+        font-size: 12px;
+        color: darkkhaki;
+        margin-top: 20px;
+      }
+      
       #slidee:hover { background: orange; }
       #slidee:active { background: darkorange; }
       
@@ -92,8 +127,14 @@
       <div id="centered">
         <div id="map-container">
           <div id="map"></div>
+          <div id="metadata">
+            <span></span> / <em></em>
+          </div>
           <div id="slider">
             <div id="slidee"></div>
+          </div>
+          <div id="instructions">
+            <em>arrow keys</em>
           </div>
         </div>
       </div>
@@ -113,6 +154,7 @@
         var start = 0;
         var count = 1;
         var callback;
+        var increment = 1;
         
         $("html, body")
           .on("mouseup", function() { down = false; })
@@ -125,6 +167,24 @@
               callback(i);
             }
           });
+          
+        $(window).on("keydown", function(event) {
+          var key = event.which;
+          if (key == 37) { // back
+            push(-increment);
+          } else if (key == 39) {
+            push(+increment);
+          } else if (key == 38 || key == 40) {
+            push(0);
+          }
+        });
+        
+        var push = function(amount) {
+          var left = Math.max(0, Math.min($slidee.position().left + amount, width));
+          var i = Math.floor(left / width * count);
+          $slidee.css("left", left);
+          callback(i);
+        };
         
         $slidee.on("mousedown", function(event) {
           down = true;
@@ -133,7 +193,10 @@
         });
           
         return {
-          setCount: function(n) { count = n; },
+          setCount: function(n) {
+            count = n;
+            increment = width / count;
+          },
           setCallback: function(c) { callback = c; },
           move: function(options) {
             $slidee.css("left", (width / options.of) * options.to);
@@ -158,8 +221,8 @@
       queue()
       .defer(d3.json, "/data/geographic/world-110m.json")
       .defer(d3.tsv, "/data/geographic/world-country-names.tsv")
-      .defer(d3.json, "/data/scraped/artists-2.json")
-      .await(function(err, world, names, tracks) {
+      .defer(d3.json, "/data/scraped/robstenson.json")
+      .await(function(err, world, names, artists) {
         svg.append("path")
           .datum(topojson.feature(world, world.objects.land))
           .attr("class", "land")
@@ -176,32 +239,33 @@
         //borders = topojson.mesh(world, world.objects.countries, function(a, b) { return a !== b; });
         _.each(countries, function(country, i) { countryNameLookup[country.name] = i; });
         
-        artists = _.compact(_.map(tracks, function(entry) {
-          return entry.geocoded ? {
-            artistName: entry.common.name,
-            trackName: entry.rdio.name,
-            coordinates: projection([entry.geocoded.lng, entry.geocoded.lat])
-          } : null;
-        }));
+        _.each(artists, function(artist) {
+          artist.coordinates = projection(artist.coordinates);
+        });
         
         var circles = {};
         
         var addArtist = function(artist, i, animate) {
           animate && slider.move({ to: i, of: artists.length });
-          if (circles[i]) return;
+          var circle = circles[i];
+          if (circle) {
+            circle.remove();
+          }
           
-          circles[i] = true;
-          svg.append("circle")
+          circles[i] = svg.append("circle")
             .datum(artist)
             .attr("class", "artist")
             .attr("cx", function(d) { return d.coordinates[0]; })
             .attr("cy", function(d) { return d.coordinates[1]; })
             .attr("r", 10);
+          
+          $("#metadata span").text(artist.artistName);
+          $("#metadata em").text(artist.location);
         };
         
-        var interval = 100;
+        var interval = 300;
         var timer;
-        var artists = _.first(artists, (0 || artists.length));
+        var artists = _.first(artists, (400 || artists.length));
         
         slider.setCount(artists.length);
         slider.setCallback(function(i) {
@@ -216,7 +280,7 @@
           }
         };
         
-        runAnimation(0);
+        timer = setTimeout(_.bind(runAnimation, null, 0), 1000);
       });
       
       // var svgMousedown = false;

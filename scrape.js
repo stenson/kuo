@@ -99,16 +99,26 @@ var fetchRdioWithUserKey = function(userKey, options) {
   });
 };
 
-var remoteFetch = function(file) {
-  fetchRdioWithUserKey("s415316", {
+var remoteFetch = function(file, userKey) {
+  fetchRdioWithUserKey(userKey, {
     method: "getArtistsInCollection",
     count: 100,
     offset: 0,
-    recourses: 7,
+    recourses: 3,
     completed: function(output) {
-      fs.writeFileSync(file, JSON.stringify(output, null, 2));
+      var toWrite = _.compact(_.map(output, function(entry) {
+        return entry.geocoded ? {
+          artistName: entry.common.name,
+          coordinates: [entry.geocoded.lng, entry.geocoded.lat],
+          location: entry.echonest.artist.artist_location.location
+        } : null;
+      }));
+      
+      fs.writeFileSync(file, JSON.stringify(toWrite, null, 2));
     }
   });
 };
 
-remoteFetch("public/data/scraped/artists-2.json");
+//remoteFetch("public/data/scraped/robstenson.json", "s415316");
+//remoteFetch("public/data/scraped/couch.json", "s1382");
+remoteFetch("public/data/scraped/sayre.json", "s1584922");
