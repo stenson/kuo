@@ -46,6 +46,7 @@ var geocodeArtistLocation = function(artist, callback) {
 };
 
 var fetchRdioWithUserKey = function(userKey, options) {
+  var method = options.method;
   var count = options.count || 20;
   var offset = options.offset || 0;
   var recourses = options.recourses || 0;
@@ -61,7 +62,8 @@ var fetchRdioWithUserKey = function(userKey, options) {
     if (--resultCount == 0) {
       if (recourses > 0) {
         fetchRdioWithUserKey(userKey, {
-          count: count, offset: offset + count, recourses: --recourses, output: output, completed: completed
+          method: method, count: count, offset: offset + count,
+          recourses: --recourses, output: output, completed: completed
         });
       } else {
         completed && completed(output);
@@ -69,7 +71,7 @@ var fetchRdioWithUserKey = function(userKey, options) {
     }
   };
   
-  rdio.call("getTracksInCollection", {
+  rdio.call(method, {
     user:userKey, sort:"playCount", count:count, start:offset
   }, function(err, data) {
     var timeout = 0;
@@ -77,7 +79,7 @@ var fetchRdioWithUserKey = function(userKey, options) {
 
     _.map(_.map(data.result, function(entry, i) {
       return {
-        common: { name: entry.artist },
+        common: { name: entry.name },
         rdio: entry,
         rosetta: "rdio-US:artist:" + entry.artistKey
       };
@@ -99,13 +101,14 @@ var fetchRdioWithUserKey = function(userKey, options) {
 
 var remoteFetch = function(file) {
   fetchRdioWithUserKey("s415316", {
-    count: 20,
+    method: "getArtistsInCollection",
+    count: 100,
     offset: 0,
-    recourses: 0,
+    recourses: 7,
     completed: function(output) {
       fs.writeFileSync(file, JSON.stringify(output, null, 2));
     }
   });
 };
 
-remoteFetch("public/data/tracks-2.json");
+remoteFetch("public/data/scraped/artists-2.json");

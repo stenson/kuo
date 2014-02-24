@@ -10,7 +10,8 @@
     "underscore": "*",
     "cli-color": "*",
     "country-data": "*",
-    "node-static": "*"
+    "node-static": "*",
+    "jquery": "<2.0"
   },
   "readme": "How worldly your music?"
 }
