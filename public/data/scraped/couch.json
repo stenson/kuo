@@ -1,0 +1,2522 @@
+[
+  {
+    "artistName": "Jóhann Jóhannsson",
+    "coordinates": [
+      -18,
+      65
+    ],
+    "location": "Iceland"
+  },
+  {
+    "artistName": "Gold Panda",
+    "coordinates": [
+      0.4695799946784973,
+      51.735748291015625
+    ],
+    "location": "Chelmsford, England"
+  },
+  {
+    "artistName": "Washed Out",
+    "coordinates": [
+      -83.7315673828125,
+      32.45820999145508
+    ],
+    "location": "Perry, GA, US"
+  },
+  {
+    "artistName": "Blue Sky Black Death",
+    "coordinates": [
+      -122.41941833496094,
+      37.77492904663086
+    ],
+    "location": "San Francisco, CA, US"
+  },
+  {
+    "artistName": "Geographer",
+    "coordinates": [
+      -122.41941833496094,
+      37.77492904663086
+    ],
+    "location": "San Francisco, CA"
+  },
+  {
+    "artistName": "Active Child",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA, US"
+  },
+  {
+    "artistName": "Future Islands",
+    "coordinates": [
+      -77.3702392578125,
+      35.60572052001953
+    ],
+    "location": "Greenville, NC, US"
+  },
+  {
+    "artistName": "Baths",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA"
+  },
+  {
+    "artistName": "Com Truise",
+    "coordinates": [
+      -74.49987030029297,
+      40.16706085205078
+    ],
+    "location": "New Jersey, US"
+  },
+  {
+    "artistName": "Now, Now",
+    "coordinates": [
+      -93.26383972167969,
+      44.9799690246582
+    ],
+    "location": "Minneapolis, MN, US"
+  },
+  {
+    "artistName": "Tim Hecker",
+    "coordinates": [
+      -73.58780670166016,
+      45.50883865356445
+    ],
+    "location": "Montreal, Canada "
+  },
+  {
+    "artistName": "Olafur Arnalds",
+    "coordinates": [
+      -18,
+      65
+    ],
+    "location": "Iceland"
+  },
+  {
+    "artistName": "Wye Oak",
+    "coordinates": [
+      -76.61219024658203,
+      39.29037857055664
+    ],
+    "location": "Baltimore, MD, US"
+  },
+  {
+    "artistName": "Diiv",
+    "coordinates": [
+      -74.00596618652344,
+      40.714271545410156
+    ],
+    "location": "New York City New York"
+  },
+  {
+    "artistName": "Sigur Rós",
+    "coordinates": [
+      -21.853864718450442,
+      64.1201677472925
+    ],
+    "location": "Reykjavik, Reykjavik, IS"
+  },
+  {
+    "artistName": "Crystal Castles",
+    "coordinates": [
+      -79.41629791259766,
+      43.700111389160156
+    ],
+    "location": "Toronto, Ontario, CA"
+  },
+  {
+    "artistName": "Tanlines",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, New York, NY, US"
+  },
+  {
+    "artistName": "Frankie Rose",
+    "coordinates": [
+      4.457363486876762,
+      50.54126261650564
+    ],
+    "location": "Sart-Dames-Avelines, Walloon Brabant, BE"
+  },
+  {
+    "artistName": "John Talabot",
+    "coordinates": [
+      2.3499999046325684,
+      41.5
+    ],
+    "location": "Barcelona, Catalonia, ES"
+  },
+  {
+    "artistName": "Monogrenade",
+    "coordinates": [
+      -73.58780670166016,
+      45.50883865356445
+    ],
+    "location": "Montreal, Quebec, CA"
+  },
+  {
+    "artistName": "Other Lives",
+    "coordinates": [
+      -97.085693359375,
+      36.16122055053711
+    ],
+    "location": "Stillwater, OK"
+  },
+  {
+    "artistName": "Orcas",
+    "coordinates": [
+      -122.33206939697266,
+      47.60620880126953
+    ],
+    "location": "Seattle, WA"
+  },
+  {
+    "artistName": "Youth Lagoon",
+    "coordinates": [
+      -116.21430206298828,
+      43.573001861572266
+    ],
+    "location": "Boise, ID"
+  },
+  {
+    "artistName": "Chad Valley",
+    "coordinates": [
+      -1.2559599876403809,
+      51.752220153808594
+    ],
+    "location": "Oxford, UK"
+  },
+  {
+    "artistName": "Twin Shadow",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, NY"
+  },
+  {
+    "artistName": "The Radio Dept.",
+    "coordinates": [
+      13.193209648132324,
+      55.705841064453125
+    ],
+    "location": "Lund, Sweden"
+  },
+  {
+    "artistName": "The Civil Wars",
+    "coordinates": [
+      -86.78443908691406,
+      36.165889739990234
+    ],
+    "location": "Nashville, TN, US"
+  },
+  {
+    "artistName": "Hot Chip",
+    "coordinates": [
+      -0.18865179277082034,
+      51.975041312172685
+    ],
+    "location": "London, England, GB"
+  },
+  {
+    "artistName": "A Winged Victory for the Sullen",
+    "coordinates": [
+      4.351439952850342,
+      50.85332107543945
+    ],
+    "location": "Brussels, Belgium"
+  },
+  {
+    "artistName": "Real Estate",
+    "coordinates": [
+      -74.11653137207031,
+      40.9792594909668
+    ],
+    "location": "Ridgewood, NJ, US"
+  },
+  {
+    "artistName": "Bear In Heaven",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, NY"
+  },
+  {
+    "artistName": "Bon Iver",
+    "coordinates": [
+      -91.49848937988281,
+      44.81135177612305
+    ],
+    "location": "Eau Claire, WI, US"
+  },
+  {
+    "artistName": "Miracle Fortress",
+    "coordinates": [
+      -73.58780670166016,
+      45.50883865356445
+    ],
+    "location": "Montreal, Quebec, CA"
+  },
+  {
+    "artistName": "STRFKR",
+    "coordinates": [
+      -122.67620849609375,
+      45.5234489440918
+    ],
+    "location": "Portland, Oregon"
+  },
+  {
+    "artistName": "Low",
+    "coordinates": [
+      -92.10658264160156,
+      46.78327178955078
+    ],
+    "location": "Duluth, MN, US"
+  },
+  {
+    "artistName": "Divine Fits",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA"
+  },
+  {
+    "artistName": "St. Vincent",
+    "coordinates": [
+      -95.99278259277344,
+      36.15398025512695
+    ],
+    "location": "Tulsa, OK, US"
+  },
+  {
+    "artistName": "Phantogram",
+    "coordinates": [
+      -73.7845687866211,
+      43.0831298828125
+    ],
+    "location": "Saratoga Springs, NY, US"
+  },
+  {
+    "artistName": "Ballaké Sissoko & Vincent Segal",
+    "coordinates": [
+      -4,
+      17
+    ],
+    "location": "Mali"
+  },
+  {
+    "artistName": "Michael Nyman",
+    "coordinates": [
+      -0.18865179277082034,
+      51.975041312172685
+    ],
+    "location": "London, England, GB"
+  },
+  {
+    "artistName": "Dirty Ghosts",
+    "coordinates": [
+      -122.41941833496094,
+      37.77492904663086
+    ],
+    "location": "San Francisco, CA, US"
+  },
+  {
+    "artistName": "Gang Gang Dance",
+    "coordinates": [
+      -74.00596618652344,
+      40.714271545410156
+    ],
+    "location": "Manhattan, New York, NY"
+  },
+  {
+    "artistName": "Coconut Records",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA, US"
+  },
+  {
+    "artistName": "Neon Indian",
+    "coordinates": [
+      -97.13362121582031,
+      33.20011901855469
+    ],
+    "location": "Denton, TX, US"
+  },
+  {
+    "artistName": "Yellow Ostrich",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, NY"
+  },
+  {
+    "artistName": "Ramona Falls",
+    "coordinates": [
+      -122.67620849609375,
+      45.5234489440918
+    ],
+    "location": "Portland, OR, US"
+  },
+  {
+    "artistName": "The Head and the Heart",
+    "coordinates": [
+      -122.33206939697266,
+      47.60620880126953
+    ],
+    "location": "Seattle, WA, US"
+  },
+  {
+    "artistName": "Beach House",
+    "coordinates": [
+      -76.61219024658203,
+      39.29037857055664
+    ],
+    "location": "Baltimore, MD, US"
+  },
+  {
+    "artistName": "School Of Seven Bells",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY"
+  },
+  {
+    "artistName": "M83",
+    "coordinates": [
+      7.127769947052002,
+      43.562408447265625
+    ],
+    "location": "antibes, france"
+  },
+  {
+    "artistName": "Blackbird Blackbird",
+    "coordinates": [
+      -122.41941833496094,
+      37.77492904663086
+    ],
+    "location": "San Francisco, CA"
+  },
+  {
+    "artistName": "Broken Social Scene",
+    "coordinates": [
+      -79.41629791259766,
+      43.700111389160156
+    ],
+    "location": "Toronto, Ontario, CA"
+  },
+  {
+    "artistName": "Dustin Wong",
+    "coordinates": [
+      -76.61219024658203,
+      39.29037857055664
+    ],
+    "location": "Baltimore, MD, US"
+  },
+  {
+    "artistName": "Christopher Bissonnette",
+    "coordinates": [
+      0.5867478142327266,
+      51.35428621900347
+    ],
+    "location": "Windsor, England, GB"
+  },
+  {
+    "artistName": "Andrew Bird",
+    "coordinates": [
+      -87.6500473022461,
+      41.85002899169922
+    ],
+    "location": "Chicago, IL, US"
+  },
+  {
+    "artistName": "Dntel",
+    "coordinates": [
+      -119.69818878173828,
+      34.42082977294922
+    ],
+    "location": "Santa Barbara, CA"
+  },
+  {
+    "artistName": "Emeralds",
+    "coordinates": [
+      -81.6954116821289,
+      41.4995002746582
+    ],
+    "location": "Cleveland, OH, US"
+  },
+  {
+    "artistName": "Valley of the Giants",
+    "coordinates": [
+      -76.53269958496094,
+      45.08340835571289
+    ],
+    "location": "Lanark Highlands, Ontario, CA"
+  },
+  {
+    "artistName": "Feist",
+    "coordinates": [
+      -80.81121523916734,
+      42.66171883038743
+    ],
+    "location": "Amherst, Novia Scotia, Canada "
+  },
+  {
+    "artistName": "Bombay Bicycle Club",
+    "coordinates": [
+      -2.695310115814209,
+      54.75843811035156
+    ],
+    "location": "United Kingdom"
+  },
+  {
+    "artistName": "Gotye",
+    "coordinates": [
+      3.216670036315918,
+      51.25
+    ],
+    "location": "Bruges, West-Vlaanderen, BE"
+  },
+  {
+    "artistName": "Phoenix",
+    "coordinates": [
+      2.34879994392395,
+      48.85340881347656
+    ],
+    "location": "Paris, Ile-de-France, FR"
+  },
+  {
+    "artistName": "Swearing At Motorists",
+    "coordinates": [
+      -84.19161224365234,
+      39.758949279785156
+    ],
+    "location": "Dayton, OH, US"
+  },
+  {
+    "artistName": "Miike Snow",
+    "coordinates": [
+      17.844925284581652,
+      59.319295700197266
+    ],
+    "location": "Stockholm, Stockholm, SE"
+  },
+  {
+    "artistName": "Yeasayer",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, New York, NY, US"
+  },
+  {
+    "artistName": "Lykke Li",
+    "coordinates": [
+      17.844925284581652,
+      59.319295700197266
+    ],
+    "location": "Stockholm, Stockholm, SE"
+  },
+  {
+    "artistName": "Daft Punk",
+    "coordinates": [
+      2.34879994392395,
+      48.85340881347656
+    ],
+    "location": "Paris, Ile-de-France, FR"
+  },
+  {
+    "artistName": "Mogwai",
+    "coordinates": [
+      -4.023015974533494,
+      55.846097626584594
+    ],
+    "location": "Glasgow, Scotland, GB"
+  },
+  {
+    "artistName": "Mount Eerie",
+    "coordinates": [
+      -122.66239929199219,
+      48.49898910522461
+    ],
+    "location": "Anacortes, WA"
+  },
+  {
+    "artistName": "Johann Sebastian Bach",
+    "coordinates": [
+      10.257070033849624,
+      51.00722438355595
+    ],
+    "location": "Eisenach, Thuringia, DE"
+  },
+  {
+    "artistName": "Bloc Party",
+    "coordinates": [
+      -0.18865179277082034,
+      51.975041312172685
+    ],
+    "location": "London, England, GB"
+  },
+  {
+    "artistName": "Hilary Hahn, Hauschka",
+    "coordinates": [
+      -79.4928207397461,
+      37.784019470214844
+    ],
+    "location": "Lexington, VA, US"
+  },
+  {
+    "artistName": "Belong",
+    "coordinates": [
+      -90.0750732421875,
+      29.95465087890625
+    ],
+    "location": "New Orleans, LA, US"
+  },
+  {
+    "artistName": "Clint Mansell",
+    "coordinates": [
+      -1.5121699571609497,
+      52.406558990478516
+    ],
+    "location": "Coventry"
+  },
+  {
+    "artistName": "The Drums",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, NY"
+  },
+  {
+    "artistName": "Neutral Milk Hotel",
+    "coordinates": [
+      -92.58833312988281,
+      32.51443862915039
+    ],
+    "location": "Ruston, LA, US"
+  },
+  {
+    "artistName": "Hans Zimmer",
+    "coordinates": [
+      8.663169860839844,
+      50.106788635253906
+    ],
+    "location": "Frankfurt, Hesse, DE"
+  },
+  {
+    "artistName": "Beirut",
+    "coordinates": [
+      -105.93779754638672,
+      35.686981201171875
+    ],
+    "location": "Santa Fe, NM, US"
+  },
+  {
+    "artistName": "Fuck Buttons",
+    "coordinates": [
+      -2.5966498851776123,
+      51.455230712890625
+    ],
+    "location": "Bristol, England, UK"
+  },
+  {
+    "artistName": "Benoît Pioulard",
+    "coordinates": [
+      -83.73605346679688,
+      42.27587127685547
+    ],
+    "location": "Michigan, US"
+  },
+  {
+    "artistName": "Keith Fullerton Whitman",
+    "coordinates": [
+      -71.09950256347656,
+      42.38759994506836
+    ],
+    "location": "Somerville, MA, US"
+  },
+  {
+    "artistName": "The xx",
+    "coordinates": [
+      -0.18865179277082034,
+      51.975041312172685
+    ],
+    "location": "London, England, GB"
+  },
+  {
+    "artistName": "S. Carey",
+    "coordinates": [
+      -88.43343353271484,
+      42.591678619384766
+    ],
+    "location": "Lake Geneva, WI"
+  },
+  {
+    "artistName": "POLIÇA",
+    "coordinates": [
+      -93.26383972167969,
+      44.9799690246582
+    ],
+    "location": "Minneapolis, MN, US"
+  },
+  {
+    "artistName": "The Sight Below",
+    "coordinates": [
+      -122.33206939697266,
+      47.60620880126953
+    ],
+    "location": "Seattle, WA, US"
+  },
+  {
+    "artistName": "Little Dragon",
+    "coordinates": [
+      13.4964297,
+      55.4781332
+    ],
+    "location": "Gothenburg, Vastra Gotaland, SE"
+  },
+  {
+    "artistName": "The Antlers",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, New York, NY, US"
+  },
+  {
+    "artistName": "The National",
+    "coordinates": [
+      -84.4568862915039,
+      39.1619987487793
+    ],
+    "location": "Cincinnati, OH, US"
+  },
+  {
+    "artistName": "Clap Your Hands Say Yeah",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, NY"
+  },
+  {
+    "artistName": "Two Door Cinema Club",
+    "coordinates": [
+      -4.274070549923865,
+      53.14104854996977
+    ],
+    "location": "Bangor, Northern Ireland, GB"
+  },
+  {
+    "artistName": "Yann Tiersen",
+    "coordinates": [
+      -4.483329772949219,
+      48.400001525878906
+    ],
+    "location": "Brest, Brittany, FR"
+  },
+  {
+    "artistName": "Kashiwa Daisuke",
+    "coordinates": [
+      132.4600821,
+      34.3981424
+    ],
+    "location": "Hiroshima-shi, Hiroshima Prefecture, JP"
+  },
+  {
+    "artistName": "Gonzales",
+    "coordinates": [
+      13.410530090332031,
+      52.52436828613281
+    ],
+    "location": "Berlin, Germany"
+  },
+  {
+    "artistName": "Alicia Keys",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY, US"
+  },
+  {
+    "artistName": "Purity Ring",
+    "coordinates": [
+      -113.46871185302734,
+      53.550140380859375
+    ],
+    "location": "Edmonton Alberta, Canada"
+  },
+  {
+    "artistName": "Sharon Van Etten",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, New York, NY, US"
+  },
+  {
+    "artistName": "Floex",
+    "coordinates": [
+      14.420760154724121,
+      50.08803939819336
+    ],
+    "location": "Praha, Czech Republic"
+  },
+  {
+    "artistName": "Kids",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA, US"
+  },
+  {
+    "artistName": "Of Monsters And Men",
+    "coordinates": [
+      -24.345471671977588,
+      65.5125930546704
+    ],
+    "location": "Keflavík Garðabær Iceland"
+  },
+  {
+    "artistName": "Yo-Yo Ma",
+    "coordinates": [
+      -71.13700103759766,
+      42.45232009887695
+    ],
+    "location": "Winchester, MA, US"
+  },
+  {
+    "artistName": "Tapes 'n Tapes",
+    "coordinates": [
+      -93.26383972167969,
+      44.9799690246582
+    ],
+    "location": "Minneapolis, MN, US"
+  },
+  {
+    "artistName": "Nitemoves",
+    "coordinates": [
+      -77.03636932373047,
+      38.895111083984375
+    ],
+    "location": "Washington, D.C."
+  },
+  {
+    "artistName": "David Byrne & St. Vincent",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY, US"
+  },
+  {
+    "artistName": "The Album Leaf",
+    "coordinates": [
+      -117.15725708007812,
+      32.715328216552734
+    ],
+    "location": "San Diego, CA, US"
+  },
+  {
+    "artistName": "Arms And Sleepers",
+    "coordinates": [
+      -71.05976867675781,
+      42.358428955078125
+    ],
+    "location": "Boston, MA"
+  },
+  {
+    "artistName": "Caspian",
+    "coordinates": [
+      -71.05976867675781,
+      42.358428955078125
+    ],
+    "location": "Boston, MA, US"
+  },
+  {
+    "artistName": "Metric",
+    "coordinates": [
+      -79.41629791259766,
+      43.700111389160156
+    ],
+    "location": "Toronto, Ontario, CA"
+  },
+  {
+    "artistName": "Tennis",
+    "coordinates": [
+      -104.98470306396484,
+      39.73915100097656
+    ],
+    "location": "Denver, CO, US"
+  },
+  {
+    "artistName": "Adele",
+    "coordinates": [
+      -0.18865179277082034,
+      51.975041312172685
+    ],
+    "location": "Tottenham, London, England, GB"
+  },
+  {
+    "artistName": "Cary Brothers",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA"
+  },
+  {
+    "artistName": "Lost In The Trees",
+    "coordinates": [
+      -79.08056640625,
+      35.945980072021484
+    ],
+    "location": "Chapel Hill, NC, US"
+  },
+  {
+    "artistName": "Stars of the Lid/ Jon McCafferty",
+    "coordinates": [
+      -97.74305725097656,
+      30.26715087890625
+    ],
+    "location": "Austin, United States"
+  },
+  {
+    "artistName": "Best Coast",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA, US"
+  },
+  {
+    "artistName": "The Notwist",
+    "coordinates": [
+      11.149999618530273,
+      47.83332824707031
+    ],
+    "location": "Weilheim, Bavaria, DE"
+  },
+  {
+    "artistName": "Katy Perry",
+    "coordinates": [
+      -119.69818878173828,
+      34.42082977294922
+    ],
+    "location": "Santa Barbara, CA, US"
+  },
+  {
+    "artistName": "Tycho",
+    "coordinates": [
+      -122.41941833496094,
+      37.77492904663086
+    ],
+    "location": "San Francisco, CA, US"
+  },
+  {
+    "artistName": "Destroyer",
+    "coordinates": [
+      -123.11933898925781,
+      49.24966049194336
+    ],
+    "location": "Vancouver, Canada"
+  },
+  {
+    "artistName": "Lana Del Rey",
+    "coordinates": [
+      -73.97987365722656,
+      44.27949142456055
+    ],
+    "location": "Lake Placid, NY, US"
+  },
+  {
+    "artistName": "Bat For Lashes",
+    "coordinates": [
+      -0.18865179277082034,
+      51.975041312172685
+    ],
+    "location": "London, England, GB"
+  },
+  {
+    "artistName": "M. Ward",
+    "coordinates": [
+      -97.15876559089587,
+      32.58457544008806
+    ],
+    "location": "Newbury Park, Thousand Oaks, CA, US"
+  },
+  {
+    "artistName": "Marc Streitenfeld",
+    "coordinates": [
+      11.57548999786377,
+      48.137428283691406
+    ],
+    "location": "Munich, Bavaria, DE"
+  },
+  {
+    "artistName": "Edward Sharpe & The Magnetic Zeros",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA, US"
+  },
+  {
+    "artistName": "The Black Keys",
+    "coordinates": [
+      -81.51901245117188,
+      41.08143997192383
+    ],
+    "location": "Akron, OH, US"
+  },
+  {
+    "artistName": "The Postal Service",
+    "coordinates": [
+      -122.33206939697266,
+      47.60620880126953
+    ],
+    "location": "Seattle, WA, US"
+  },
+  {
+    "artistName": "How To Dress Well",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, NY"
+  },
+  {
+    "artistName": "Kanye West",
+    "coordinates": [
+      -87.6500473022461,
+      41.85002899169922
+    ],
+    "location": "Chicago Illinois"
+  },
+  {
+    "artistName": "Kronos Quartet",
+    "coordinates": [
+      -122.33206939697266,
+      47.60620880126953
+    ],
+    "location": "Seattle, Washington"
+  },
+  {
+    "artistName": "Badly Drawn Boy",
+    "coordinates": [
+      0.5867478142327266,
+      51.35428621900347
+    ],
+    "location": "Bolton, England, GB"
+  },
+  {
+    "artistName": "José Gonzalez",
+    "coordinates": [
+      13.4964297,
+      55.4781332
+    ],
+    "location": "Gothenburg, Vastra Gotaland, SE"
+  },
+  {
+    "artistName": "Veronica Falls",
+    "coordinates": [
+      -0.18865179277082034,
+      51.975041312172685
+    ],
+    "location": "London, England, GB"
+  },
+  {
+    "artistName": "The Horrors",
+    "coordinates": [
+      0.7143300175666809,
+      51.537818908691406
+    ],
+    "location": "Southend-on-Sea, England"
+  },
+  {
+    "artistName": "Rhye",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA"
+  },
+  {
+    "artistName": "The Appleseed Cast",
+    "coordinates": [
+      -95.2352523803711,
+      38.9716682434082
+    ],
+    "location": "Lawrence, KS, US"
+  },
+  {
+    "artistName": "Damien Rice",
+    "coordinates": [
+      -6.75,
+      53.16667175292969
+    ],
+    "location": "Kildare, Ireland"
+  },
+  {
+    "artistName": "Fever Ray",
+    "coordinates": [
+      17.844925284581652,
+      59.319295700197266
+    ],
+    "location": "Stockholm, Stockholm, SE"
+  },
+  {
+    "artistName": "Hospitality",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, NY"
+  },
+  {
+    "artistName": "Ride",
+    "coordinates": [
+      -2.4559233290996394,
+      53.10307074419457
+    ],
+    "location": "Oxford, England, GB"
+  },
+  {
+    "artistName": "Sufjan Stevens",
+    "coordinates": [
+      -83.32740020751953,
+      42.232601165771484
+    ],
+    "location": "Detroit, MI"
+  },
+  {
+    "artistName": "Kate Bush",
+    "coordinates": [
+      -0.18865179277082034,
+      51.975041312172685
+    ],
+    "location": "Bexleyheath, London, England, GB"
+  },
+  {
+    "artistName": "Yeah Yeah Yeahs",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY, US"
+  },
+  {
+    "artistName": "Moby",
+    "coordinates": [
+      -73.46929168701172,
+      41.07870864868164
+    ],
+    "location": "Darien Connecticut"
+  },
+  {
+    "artistName": "Max Richter",
+    "coordinates": [
+      10.5,
+      51.5
+    ],
+    "location": "Germany"
+  },
+  {
+    "artistName": "Explosions In The Sky",
+    "coordinates": [
+      -97.74305725097656,
+      30.26715087890625
+    ],
+    "location": "Austin, TX, US"
+  },
+  {
+    "artistName": "Burial",
+    "coordinates": [
+      -0.059140000492334366,
+      51.48442840576172
+    ],
+    "location": "South London, UK"
+  },
+  {
+    "artistName": "CocoRosie",
+    "coordinates": [
+      2.34879994392395,
+      48.85340881347656
+    ],
+    "location": "Paris, France"
+  },
+  {
+    "artistName": "Band Of Horses",
+    "coordinates": [
+      -122.33206939697266,
+      47.60620880126953
+    ],
+    "location": "Seattle, WA, US"
+  },
+  {
+    "artistName": "Matthew Dear",
+    "coordinates": [
+      -97.8499984741211,
+      27.48590087890625
+    ],
+    "location": "Kingsville, TX"
+  },
+  {
+    "artistName": "Jeff The Brotherhood",
+    "coordinates": [
+      -86.78443908691406,
+      36.165889739990234
+    ],
+    "location": "Nashville, TN, US"
+  },
+  {
+    "artistName": "Beck",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA, US"
+  },
+  {
+    "artistName": "tUnE-yArDs",
+    "coordinates": [
+      -122.27079772949219,
+      37.80437088012695
+    ],
+    "location": "Oakland, CA, US"
+  },
+  {
+    "artistName": "The Knife",
+    "coordinates": [
+      17.844925284581652,
+      59.319295700197266
+    ],
+    "location": "Stockholm, Stockholm, SE"
+  },
+  {
+    "artistName": "Ben Folds",
+    "coordinates": [
+      -80.24421691894531,
+      36.09986114501953
+    ],
+    "location": "Winston-Salem, NC, US"
+  },
+  {
+    "artistName": "Counting Crows",
+    "coordinates": [
+      -122.41941833496094,
+      37.77492904663086
+    ],
+    "location": "San Francisco, CA, US"
+  },
+  {
+    "artistName": "Black Marble",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, NY"
+  },
+  {
+    "artistName": "Yelle",
+    "coordinates": [
+      2.3627392595704473,
+      48.67095995472885
+    ],
+    "location": "St.-Brieuc, Brittany, FR"
+  },
+  {
+    "artistName": "Salva",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA"
+  },
+  {
+    "artistName": "Young The Giant",
+    "coordinates": [
+      -117.82311248779297,
+      33.66946029663086
+    ],
+    "location": "Irvine, CA, US"
+  },
+  {
+    "artistName": "Caribou",
+    "coordinates": [
+      -79.9373941,
+      43.25634325
+    ],
+    "location": "Dundas, Hamilton, Ontario, CA"
+  },
+  {
+    "artistName": "James Blake",
+    "coordinates": [
+      -0.07983636943084547,
+      51.64851818754017
+    ],
+    "location": "Enfield, London, England, GB"
+  },
+  {
+    "artistName": "Fiona Apple",
+    "coordinates": [
+      -74.00596618652344,
+      40.714271545410156
+    ],
+    "location": "Manhattan, New York, NY, US"
+  },
+  {
+    "artistName": "Fruit Bats",
+    "coordinates": [
+      -87.6500473022461,
+      41.85002899169922
+    ],
+    "location": "Chicago, IL, US"
+  },
+  {
+    "artistName": "Vcmg",
+    "coordinates": [
+      0.5867478142327266,
+      51.35428621900347
+    ],
+    "location": "England, GB"
+  },
+  {
+    "artistName": "10,000 Maniacs",
+    "coordinates": [
+      -79.26667022705078,
+      42.150001525878906
+    ],
+    "location": "Jamestown, NY"
+  },
+  {
+    "artistName": "Wilco",
+    "coordinates": [
+      -87.6500473022461,
+      41.85002899169922
+    ],
+    "location": "Chicago, IL, US"
+  },
+  {
+    "artistName": "Junior Boys",
+    "coordinates": [
+      -79.41629791259766,
+      43.700111389160156
+    ],
+    "location": "Toronto, Ontario, CA"
+  },
+  {
+    "artistName": "Michna",
+    "coordinates": [
+      -80.19365692138672,
+      25.774269104003906
+    ],
+    "location": "Miami, FL, US"
+  },
+  {
+    "artistName": "The Glitch Mob",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA, US"
+  },
+  {
+    "artistName": "Annie",
+    "coordinates": [
+      5.324150085449219,
+      60.39299011230469
+    ],
+    "location": "Bergen, Norway"
+  },
+  {
+    "artistName": "Múm",
+    "coordinates": [
+      -18,
+      65
+    ],
+    "location": "Iceland"
+  },
+  {
+    "artistName": "Superdrag",
+    "coordinates": [
+      -83.92073822021484,
+      35.96063995361328
+    ],
+    "location": "Knoxville, TN, US"
+  },
+  {
+    "artistName": "Violens",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY, US"
+  },
+  {
+    "artistName": "Cro-Magnon",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY, US"
+  },
+  {
+    "artistName": "Blanck Mass",
+    "coordinates": [
+      0.5867478142327266,
+      51.35428621900347
+    ],
+    "location": "Bristol, England, GB"
+  },
+  {
+    "artistName": "Black Sheep",
+    "coordinates": [
+      -73.92356872558594,
+      40.82732009887695
+    ],
+    "location": "Bronx, New York, NY, US"
+  },
+  {
+    "artistName": "Television",
+    "coordinates": [
+      -74.00596618652344,
+      40.714271545410156
+    ],
+    "location": "New York City, NY"
+  },
+  {
+    "artistName": "Enigma",
+    "coordinates": [
+      10.5,
+      51.5
+    ],
+    "location": "Germany"
+  },
+  {
+    "artistName": "Godspeed You! Black Emperor",
+    "coordinates": [
+      -73.58780670166016,
+      45.50883865356445
+    ],
+    "location": "Montreal, Quebec, CA"
+  },
+  {
+    "artistName": "Daniel Rossen",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA, US"
+  },
+  {
+    "artistName": "Deafheaven",
+    "coordinates": [
+      -122.41941833496094,
+      37.77492904663086
+    ],
+    "location": "San Francisco, CA, US"
+  },
+  {
+    "artistName": "Denison Witmer",
+    "coordinates": [
+      -76.30551147460938,
+      40.037879943847656
+    ],
+    "location": "Lancaster, PA, US"
+  },
+  {
+    "artistName": "Swans",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY, US"
+  },
+  {
+    "artistName": "Jens Lekman",
+    "coordinates": [
+      12.279820442199707,
+      57.662841796875
+    ],
+    "location": "Gothenburg, Sweden"
+  },
+  {
+    "artistName": "Stone Sour",
+    "coordinates": [
+      -93.6091079711914,
+      41.60054016113281
+    ],
+    "location": "Des Moines, IA, US"
+  },
+  {
+    "artistName": "K7",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY, US"
+  },
+  {
+    "artistName": "Nouvelle Vague",
+    "coordinates": [
+      2.34879994392395,
+      48.85340881347656
+    ],
+    "location": "Paris, Ile-de-France, FR"
+  },
+  {
+    "artistName": "Cut Copy",
+    "coordinates": [
+      144.96331787109375,
+      -37.81399917602539
+    ],
+    "location": "Melbourne, Australia"
+  },
+  {
+    "artistName": "Death Cab for Cutie",
+    "coordinates": [
+      -122.48822021484375,
+      48.75954818725586
+    ],
+    "location": "Bellingham, WA, US"
+  },
+  {
+    "artistName": "Starship",
+    "coordinates": [
+      -84.20128631591797,
+      30.877410888671875
+    ],
+    "location": "Cairo, GA, US"
+  },
+  {
+    "artistName": "Portico Quartet",
+    "coordinates": [
+      18.43247787559775,
+      -33.918448898487334
+    ],
+    "location": "East London, Eastern Cape, ZA"
+  },
+  {
+    "artistName": "Russian Circles",
+    "coordinates": [
+      -87.6500473022461,
+      41.85002899169922
+    ],
+    "location": "Chicago, IL, US"
+  },
+  {
+    "artistName": "The Chemical Brothers",
+    "coordinates": [
+      -2.585364918951546,
+      53.39253900291009
+    ],
+    "location": "Manchester, England, GB"
+  },
+  {
+    "artistName": "Death In Vegas",
+    "coordinates": [
+      -0.12574000656604767,
+      51.50852966308594
+    ],
+    "location": "London, England"
+  },
+  {
+    "artistName": "Maurice Duruflé",
+    "coordinates": [
+      2,
+      46
+    ],
+    "location": "France"
+  },
+  {
+    "artistName": "Apparat",
+    "coordinates": [
+      13.410530090332031,
+      52.52436828613281
+    ],
+    "location": "Berlin, Berlin, DE"
+  },
+  {
+    "artistName": "Dustin O'Halloran",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, California"
+  },
+  {
+    "artistName": "Coldplay",
+    "coordinates": [
+      -0.18865179277082034,
+      51.975041312172685
+    ],
+    "location": "London, England, GB"
+  },
+  {
+    "artistName": "Lusine",
+    "coordinates": [
+      -122.33206939697266,
+      47.60620880126953
+    ],
+    "location": "Seattle, WA, US"
+  },
+  {
+    "artistName": "The Field",
+    "coordinates": [
+      17.844925284581652,
+      59.319295700197266
+    ],
+    "location": "Stockholm, Stockholm, SE"
+  },
+  {
+    "artistName": "Darkside",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY, US"
+  },
+  {
+    "artistName": "Bonobo",
+    "coordinates": [
+      -1.4117399454116821,
+      53.91167068481445
+    ],
+    "location": "Leeds West Yorkshire England UK"
+  },
+  {
+    "artistName": "The Books",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY"
+  },
+  {
+    "artistName": "Genesis",
+    "coordinates": [
+      -0.5823323,
+      51.249170649999996
+    ],
+    "location": "Godalming, England, GB"
+  },
+  {
+    "artistName": "Regina Spektor",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY, US"
+  },
+  {
+    "artistName": "Brad Mehldau Trio",
+    "coordinates": [
+      -81.65564727783203,
+      30.33218002319336
+    ],
+    "location": "Jacksonville, FL, US"
+  },
+  {
+    "artistName": "Adem",
+    "coordinates": [
+      -0.18865179277082034,
+      51.975041312172685
+    ],
+    "location": "London, England, GB"
+  },
+  {
+    "artistName": "Calvin Harris",
+    "coordinates": [
+      -3.833329916000366,
+      55.08332824707031
+    ],
+    "location": "Dumfries Dumfries and Galloway, Scotland "
+  },
+  {
+    "artistName": "Islands",
+    "coordinates": [
+      -73.58780670166016,
+      45.50883865356445
+    ],
+    "location": "Montreal, Canada"
+  },
+  {
+    "artistName": "Volcano Choir",
+    "coordinates": [
+      -90.00041198730469,
+      44.500240325927734
+    ],
+    "location": "Wisconsin, US"
+  },
+  {
+    "artistName": "Gnarls Barkley",
+    "coordinates": [
+      -84.38797760009766,
+      33.749000549316406
+    ],
+    "location": "Atlanta, GA, US"
+  },
+  {
+    "artistName": "My Bloody Valentine",
+    "coordinates": [
+      -6.132019527288337,
+      53.243906139088296
+    ],
+    "location": "Dublin, Dublin, IE"
+  },
+  {
+    "artistName": "Jon Hopkins",
+    "coordinates": [
+      -0.20804999768733978,
+      51.422119140625
+    ],
+    "location": "Wimbledon, England"
+  },
+  {
+    "artistName": "Foals",
+    "coordinates": [
+      -2.4559233290996394,
+      53.10307074419457
+    ],
+    "location": "Oxford, England, GB"
+  },
+  {
+    "artistName": "Yo La Tengo",
+    "coordinates": [
+      -74.03235626220703,
+      40.74399185180664
+    ],
+    "location": "Hoboken, NJ"
+  },
+  {
+    "artistName": "Haim",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, California"
+  },
+  {
+    "artistName": "The Killers",
+    "coordinates": [
+      -115.13722229003906,
+      36.17496871948242
+    ],
+    "location": "Las Vegas, NV, US"
+  },
+  {
+    "artistName": "The Go! Team",
+    "coordinates": [
+      -0.14316455,
+      50.8330068
+    ],
+    "location": "Brighton, England, GB"
+  },
+  {
+    "artistName": "Modest Mouse",
+    "coordinates": [
+      -122.03262329101562,
+      47.53010177612305
+    ],
+    "location": "Issaquah, WA, US"
+  },
+  {
+    "artistName": "Jeremy Denk",
+    "coordinates": [
+      -86.09189459627815,
+      39.56273779859254
+    ],
+    "location": "New York,New York,United States"
+  },
+  {
+    "artistName": "Dave Matthews Band",
+    "coordinates": [
+      -78.47667694091797,
+      38.0293083190918
+    ],
+    "location": "Charlottesville, VA, US"
+  },
+  {
+    "artistName": "Trespassers William",
+    "coordinates": [
+      -117.85311126708984,
+      33.78778839111328
+    ],
+    "location": "Orange, CA, US"
+  },
+  {
+    "artistName": "Interpol",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY, US"
+  },
+  {
+    "artistName": "Grizzly Bear",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, New York, NY, US"
+  },
+  {
+    "artistName": "Vince Guaraldi Trio",
+    "coordinates": [
+      -122.41941833496094,
+      37.77492904663086
+    ],
+    "location": "San Francisco, CA, US"
+  },
+  {
+    "artistName": "The Ruby Suns",
+    "coordinates": [
+      174.7191162109375,
+      -36.86288833618164
+    ],
+    "location": "Auckland, Auckland, NZ"
+  },
+  {
+    "artistName": "Four Tet",
+    "coordinates": [
+      -0.18865179277082034,
+      51.975041312172685
+    ],
+    "location": "Putney, London, England, GB"
+  },
+  {
+    "artistName": "Moonface",
+    "coordinates": [
+      -119.5858383178711,
+      49.480621337890625
+    ],
+    "location": "Penticton, British Columbia, CA"
+  },
+  {
+    "artistName": "Dungen",
+    "coordinates": [
+      17.844925284581652,
+      59.319295700197266
+    ],
+    "location": "Stockholm, Stockholm, SE"
+  },
+  {
+    "artistName": "TV On The Radio",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, New York, NY, US"
+  },
+  {
+    "artistName": "Grandaddy",
+    "coordinates": [
+      -120.99687957763672,
+      37.63909912109375
+    ],
+    "location": "Modesto, CA"
+  },
+  {
+    "artistName": "Mint Royale",
+    "coordinates": [
+      -2.2374300956726074,
+      53.48094940185547
+    ],
+    "location": "Manchester, UK "
+  },
+  {
+    "artistName": "Auf Der Maur",
+    "coordinates": [
+      -73.58780670166016,
+      45.50883865356445
+    ],
+    "location": "Montreal, Quebec, CA"
+  },
+  {
+    "artistName": "Arcade Fire",
+    "coordinates": [
+      -73.58780670166016,
+      45.50883865356445
+    ],
+    "location": "Montreal, Quebec, CA"
+  },
+  {
+    "artistName": "Johnny Flynn",
+    "coordinates": [
+      -0.18865179277082034,
+      51.975041312172685
+    ],
+    "location": "London, England, GB"
+  },
+  {
+    "artistName": "Son Lux",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY"
+  },
+  {
+    "artistName": "Glasser",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles CA"
+  },
+  {
+    "artistName": "Discovery",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY"
+  },
+  {
+    "artistName": "Brendan Canning",
+    "coordinates": [
+      -79.41629791259766,
+      43.700111389160156
+    ],
+    "location": "Toronto, Ontario, CA"
+  },
+  {
+    "artistName": "Bear McCreary",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA, US"
+  },
+  {
+    "artistName": "Kavinsky",
+    "coordinates": [
+      2.34879994392395,
+      48.85340881347656
+    ],
+    "location": "Paris, Ile-de-France, FR"
+  },
+  {
+    "artistName": "Ludovico Einaudi",
+    "coordinates": [
+      7.686820030212402,
+      45.070491790771484
+    ],
+    "location": "Turin, Piedmont, Italy "
+  },
+  {
+    "artistName": "Youandewan",
+    "coordinates": [
+      -1.5956581110032544,
+      53.71238747660679
+    ],
+    "location": "Leeds, England, GB"
+  },
+  {
+    "artistName": "Brooke Waggoner",
+    "coordinates": [
+      -86.78443908691406,
+      36.165889739990234
+    ],
+    "location": "Nashville, TN, US"
+  },
+  {
+    "artistName": "loscil",
+    "coordinates": [
+      -123.11933898925781,
+      49.24966049194336
+    ],
+    "location": "Vancouver, British Columbia, CA"
+  },
+  {
+    "artistName": "Mount Kimbie",
+    "coordinates": [
+      -0.14316455,
+      50.8330068
+    ],
+    "location": "Brighton, England, GB"
+  },
+  {
+    "artistName": "Yppah",
+    "coordinates": [
+      -95.41120147705078,
+      29.939800262451172
+    ],
+    "location": "Houston, TX"
+  },
+  {
+    "artistName": "Bibio",
+    "coordinates": [
+      -2.122960090637207,
+      52.58546829223633
+    ],
+    "location": "Wolverhampton"
+  },
+  {
+    "artistName": "Kiln",
+    "coordinates": [
+      -84.48387145996094,
+      42.73698043823242
+    ],
+    "location": "East Lansing, MI, US"
+  },
+  {
+    "artistName": "Jim Guthrie",
+    "coordinates": [
+      -79.41629791259766,
+      43.700111389160156
+    ],
+    "location": "Toronto, Ontario, CA"
+  },
+  {
+    "artistName": "The Most Serene Republic",
+    "coordinates": [
+      -79.41629791259766,
+      43.700111389160156
+    ],
+    "location": "Toronto, Ontario, CA"
+  },
+  {
+    "artistName": "Dosh",
+    "coordinates": [
+      -93.26383972167969,
+      44.9799690246582
+    ],
+    "location": "Minneapolis, MN"
+  },
+  {
+    "artistName": "Matthew Robert Cooper",
+    "coordinates": [
+      -86.2502670288086,
+      35.75035095214844
+    ],
+    "location": "Tennessee, US"
+  },
+  {
+    "artistName": "Boards Of Canada",
+    "coordinates": [
+      -3.363952415086187,
+      55.945178355011855
+    ],
+    "location": "Edinburgh, Scotland, GB"
+  },
+  {
+    "artistName": "And So I Watch You from Afar",
+    "coordinates": [
+      -5.953030282182231,
+      54.58091391314441
+    ],
+    "location": "Belfast, Northern Ireland, GB"
+  },
+  {
+    "artistName": "Maybeshewill",
+    "coordinates": [
+      -1.1316900253295898,
+      52.63859939575195
+    ],
+    "location": "Leicester, England"
+  },
+  {
+    "artistName": "65daysofstatic",
+    "coordinates": [
+      -1.3660866243401972,
+      53.423214632133046
+    ],
+    "location": "Sheffield, England, GB"
+  },
+  {
+    "artistName": "The Evpatoria Report",
+    "coordinates": [
+      8.014269828796387,
+      47.000160217285156
+    ],
+    "location": "Switzerland"
+  },
+  {
+    "artistName": "Zola Jesus",
+    "coordinates": [
+      -112.07404327392578,
+      33.44837951660156
+    ],
+    "location": "Phoenix, AZ, US"
+  },
+  {
+    "artistName": "Efterklang",
+    "coordinates": [
+      8.93019622989706,
+      54.97162310847806
+    ],
+    "location": "Copenhagen, Hovedstaden, DK"
+  },
+  {
+    "artistName": "Nils Frahm",
+    "coordinates": [
+      13.410530090332031,
+      52.52436828613281
+    ],
+    "location": "Berlin, Germany"
+  },
+  {
+    "artistName": "Still Corners",
+    "coordinates": [
+      -0.18865179277082034,
+      51.975041312172685
+    ],
+    "location": "London, England, GB"
+  },
+  {
+    "artistName": "General Sounds",
+    "coordinates": [
+      -0.39638252290706827,
+      51.563695181772246
+    ],
+    "location": "Exmouth, England, GB"
+  },
+  {
+    "artistName": "Birdy",
+    "coordinates": [
+      0.13199253127122865,
+      51.56410153693834
+    ],
+    "location": "Lymington, England, GB"
+  },
+  {
+    "artistName": "Roedelius",
+    "coordinates": [
+      13.410530090332031,
+      52.52436828613281
+    ],
+    "location": "Berlin, Berlin, DE"
+  },
+  {
+    "artistName": "James Vincent McMorrow",
+    "coordinates": [
+      -6.132019527288337,
+      53.243906139088296
+    ],
+    "location": "Dublin, Dublin, IE"
+  },
+  {
+    "artistName": "Ellen Allien & Apparat",
+    "coordinates": [
+      10.5,
+      51.5
+    ],
+    "location": "Germany"
+  },
+  {
+    "artistName": "TOKiMONSTA",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA, US"
+  },
+  {
+    "artistName": "Jon-Rae Fletcher",
+    "coordinates": [
+      -79.41629791259766,
+      43.700111389160156
+    ],
+    "location": "Toronto, Ontario, CA"
+  },
+  {
+    "artistName": "Oh Land",
+    "coordinates": [
+      8.93019622989706,
+      54.97162310847806
+    ],
+    "location": "Copenhagen, Hovedstaden, DK"
+  },
+  {
+    "artistName": "High Places",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY"
+  },
+  {
+    "artistName": "Nightlands",
+    "coordinates": [
+      -75.16378784179688,
+      39.95233917236328
+    ],
+    "location": "Philadelphia, PA, US"
+  },
+  {
+    "artistName": "Obfusc",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY, US"
+  },
+  {
+    "artistName": "Oneohtrix Point Never",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, NY"
+  },
+  {
+    "artistName": "The Range",
+    "coordinates": [
+      -98.5,
+      39.7599983215332
+    ],
+    "location": "United States"
+  },
+  {
+    "artistName": "The Naked And Famous",
+    "coordinates": [
+      174.7191162109375,
+      -36.86288833618164
+    ],
+    "location": "Auckland, Auckland, NZ"
+  },
+  {
+    "artistName": "Blue Hawaii",
+    "coordinates": [
+      -73.58780670166016,
+      45.50883865356445
+    ],
+    "location": "Montreal, Quebec, CA"
+  },
+  {
+    "artistName": "French Paddleboat",
+    "coordinates": [
+      -113.642578125,
+      60.10866928100586
+    ],
+    "location": "Canada"
+  },
+  {
+    "artistName": "Disclosure",
+    "coordinates": [
+      -0.3333300054073334,
+      51.25
+    ],
+    "location": "Surrey, England"
+  },
+  {
+    "artistName": "Sun Kil Moon",
+    "coordinates": [
+      -122.41941833496094,
+      37.77492904663086
+    ],
+    "location": "San Francisco, CA"
+  },
+  {
+    "artistName": "College",
+    "coordinates": [
+      2,
+      46
+    ],
+    "location": "France"
+  },
+  {
+    "artistName": "Little People",
+    "coordinates": [
+      -0.13722999393939972,
+      51.517459869384766
+    ],
+    "location": "London, UK"
+  },
+  {
+    "artistName": "Icona Pop",
+    "coordinates": [
+      17.844925284581652,
+      59.319295700197266
+    ],
+    "location": "Stockholm, Stockholm, SE"
+  },
+  {
+    "artistName": "Taylor Mcferrin",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, New York, NY, US"
+  },
+  {
+    "artistName": "Pretty Lights",
+    "coordinates": [
+      -105.08441925048828,
+      40.58525848388672
+    ],
+    "location": "Fort Collins, CO, US"
+  },
+  {
+    "artistName": "Steven Price",
+    "coordinates": [
+      100,
+      60
+    ],
+    "location": "Russia"
+  },
+  {
+    "artistName": "Archie Pelago",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, NY"
+  },
+  {
+    "artistName": "Message To Bears",
+    "coordinates": [
+      0.5867478142327266,
+      51.35428621900347
+    ],
+    "location": "Bristol, England, GB"
+  },
+  {
+    "artistName": "Flume",
+    "coordinates": [
+      4.3577414,
+      51.9802507
+    ],
+    "location": "Enschede, Overyssel, NL"
+  },
+  {
+    "artistName": "Kishi Bashi",
+    "coordinates": [
+      -122.33206939697266,
+      47.60620880126953
+    ],
+    "location": "Seattle, WA, US"
+  },
+  {
+    "artistName": "Lapalux",
+    "coordinates": [
+      0.4292668,
+      51.6410508
+    ],
+    "location": "Essex, England, GB"
+  },
+  {
+    "artistName": "Macklemore & Ryan Lewis",
+    "coordinates": [
+      -122.33206939697266,
+      47.60620880126953
+    ],
+    "location": "Seattle, Washington"
+  },
+  {
+    "artistName": "Tom Rosenthal",
+    "coordinates": [
+      -0.18865179277082034,
+      51.975041312172685
+    ],
+    "location": "London, England, GB"
+  },
+  {
+    "artistName": "Girl Talk",
+    "coordinates": [
+      -122.41941833496094,
+      37.77492904663086
+    ],
+    "location": "San Francisco, CA, US"
+  },
+  {
+    "artistName": "High Highs",
+    "coordinates": [
+      -75.4999008178711,
+      43.00035095214844
+    ],
+    "location": "New York, NY, US"
+  },
+  {
+    "artistName": "Rattail",
+    "coordinates": [
+      -119.75125885009766,
+      37.250221252441406
+    ],
+    "location": "California, US"
+  },
+  {
+    "artistName": "Zammuto",
+    "coordinates": [
+      -72.94731903076172,
+      42.771751403808594
+    ],
+    "location": "Readsboro, VT, US"
+  },
+  {
+    "artistName": "alt-J",
+    "coordinates": [
+      -1.5478500127792358,
+      53.796478271484375
+    ],
+    "location": "Leeds England"
+  },
+  {
+    "artistName": "Holy Other",
+    "coordinates": [
+      -2.585364918951546,
+      53.39253900291009
+    ],
+    "location": "Manchester, England, GB"
+  },
+  {
+    "artistName": "RYAT",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA, US"
+  },
+  {
+    "artistName": "Evenings",
+    "coordinates": [
+      -2.4559233290996394,
+      53.10307074419457
+    ],
+    "location": "Oxford, England, GB"
+  },
+  {
+    "artistName": "Father John Misty",
+    "coordinates": [
+      -98.5,
+      39.7599983215332
+    ],
+    "location": "United States"
+  },
+  {
+    "artistName": "Vestals",
+    "coordinates": [
+      -93.26383972167969,
+      44.9799690246582
+    ],
+    "location": "Minneapolis, MN, US"
+  },
+  {
+    "artistName": "Young Wonder",
+    "coordinates": [
+      -8.470609664916992,
+      51.89796829223633
+    ],
+    "location": "Corcaigh, Ireland"
+  },
+  {
+    "artistName": "Lord Huron",
+    "coordinates": [
+      -118.24368286132812,
+      34.05223083496094
+    ],
+    "location": "Los Angeles, CA, US"
+  },
+  {
+    "artistName": "CHVRCHES",
+    "coordinates": [
+      -4.243800163269043,
+      55.85900115966797
+    ],
+    "location": "Glasgow, Scotland"
+  },
+  {
+    "artistName": "My Dry Wet Mess",
+    "coordinates": [
+      13.245010406867797,
+      41.86132353792567
+    ],
+    "location": "Rome, Lazio, IT"
+  },
+  {
+    "artistName": "University of Michigan Men's Glee Club",
+    "coordinates": [
+      -83.74088287353516,
+      42.27756118774414
+    ],
+    "location": "Ann Arbor Michigan"
+  },
+  {
+    "artistName": "Lights & Motion",
+    "coordinates": [
+      12.279820442199707,
+      57.662841796875
+    ],
+    "location": "Gothenburg Sweden"
+  },
+  {
+    "artistName": "Guy Fox",
+    "coordinates": [
+      -122.41941833496094,
+      37.77492904663086
+    ],
+    "location": "San Francisco, CA"
+  },
+  {
+    "artistName": "Little Daylight",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn, NY"
+  },
+  {
+    "artistName": "Ginkgo",
+    "coordinates": [
+      -79.55583628912484,
+      40.81324911281028
+    ],
+    "location": "West Philly, Philadelphia, PA, US"
+  },
+  {
+    "artistName": "D33J",
+    "coordinates": [
+      -119.75125885009766,
+      37.250221252441406
+    ],
+    "location": "California"
+  },
+  {
+    "artistName": "San Fermin",
+    "coordinates": [
+      -73.94957733154297,
+      40.65010070800781
+    ],
+    "location": "Brooklyn NY"
+  },
+  {
+    "artistName": "London Grammar",
+    "coordinates": [
+      -1.1504700183868408,
+      52.9536018371582
+    ],
+    "location": "Nottingham, England"
+  },
+  {
+    "artistName": "Loud Harp",
+    "coordinates": [
+      -104.82135772705078,
+      38.83388137817383
+    ],
+    "location": "Colorado & Utah"
+  },
+  {
+    "artistName": "Shane Carruth",
+    "coordinates": [
+      -78.88668823242188,
+      33.68906021118164
+    ],
+    "location": "Myrtle Beach, SC, US"
+  }
+]
